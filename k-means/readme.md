@@ -5,11 +5,11 @@ You need to install matplotlib with :
 
 In the figure below the green ponts are for alives and the red points are for deads.
 
-[Figure 1](figure 1.png)
+![Figure 1](figure1.png)
 
 In the figure below each color is a cluster and the 3 triangles are the centroids.
 
-[Figure 2](figure 2.png)
+![Figure 2](figure2.png)
 
 The output is shown below with 3 clusters :
 
