@@ -1,0 +1,9 @@
+
+number of people that we predict = alive and actual = alive : 33
+number of people that we predict = alive and actual = dead  :  3
+number of people that we predict = dead and actual = alive  : 13
+number of people that we predict = dead and actual = dead   :  7
+Percision   : 0.916667
+Recall      : 0.717391
+Accuracy    : 0.714286
+

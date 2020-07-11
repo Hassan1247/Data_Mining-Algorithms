@@ -1,0 +1,647 @@
+how many clusters :  153
+cluster 1 with 2 alives and 0 deads the entropy is 0
+cluster 2 with 2 alives and 0 deads the entropy is 0
+cluster 3 with 2 alives and 0 deads the entropy is 0
+cluster 4 with 2 alives and 0 deads the entropy is 0
+cluster 5 with 2 alives and 0 deads the entropy is 0
+cluster 6 with 1 alives and 1 deads the entropy is 1.0
+cluster 7 with 1 alives and 1 deads the entropy is 1.0
+cluster 8 with 1 alives and 1 deads the entropy is 1.0
+cluster 9 with 2 alives and 0 deads the entropy is 0
+cluster 10 with 2 alives and 0 deads the entropy is 0
+cluster 11 with 2 alives and 0 deads the entropy is 0
+cluster 12 with 2 alives and 0 deads the entropy is 0
+cluster 13 with 2 alives and 0 deads the entropy is 0
+cluster 14 with 2 alives and 0 deads the entropy is 0
+cluster 15 with 2 alives and 0 deads the entropy is 0
+cluster 16 with 1 alives and 1 deads the entropy is 1.0
+cluster 17 with 2 alives and 0 deads the entropy is 0
+cluster 18 with 2 alives and 0 deads the entropy is 0
+cluster 19 with 2 alives and 0 deads the entropy is 0
+cluster 20 with 2 alives and 0 deads the entropy is 0
+cluster 21 with 1 alives and 1 deads the entropy is 1.0
+cluster 22 with 2 alives and 0 deads the entropy is 0
+cluster 23 with 2 alives and 0 deads the entropy is 0
+cluster 24 with 1 alives and 1 deads the entropy is 1.0
+cluster 25 with 1 alives and 1 deads the entropy is 1.0
+cluster 26 with 2 alives and 0 deads the entropy is 0
+cluster 27 with 1 alives and 1 deads the entropy is 1.0
+cluster 28 with 2 alives and 0 deads the entropy is 0
+cluster 29 with 1 alives and 1 deads the entropy is 1.0
+cluster 30 with 1 alives and 1 deads the entropy is 1.0
+cluster 31 with 2 alives and 0 deads the entropy is 0
+cluster 32 with 1 alives and 1 deads the entropy is 1.0
+cluster 33 with 1 alives and 1 deads the entropy is 1.0
+cluster 34 with 2 alives and 0 deads the entropy is 0
+cluster 35 with 1 alives and 1 deads the entropy is 1.0
+cluster 36 with 0 alives and 2 deads the entropy is 0
+cluster 37 with 2 alives and 0 deads the entropy is 0
+cluster 38 with 2 alives and 0 deads the entropy is 0
+cluster 39 with 2 alives and 0 deads the entropy is 0
+cluster 40 with 1 alives and 1 deads the entropy is 1.0
+cluster 41 with 1 alives and 1 deads the entropy is 1.0
+cluster 42 with 2 alives and 0 deads the entropy is 0
+cluster 43 with 2 alives and 0 deads the entropy is 0
+cluster 44 with 1 alives and 1 deads the entropy is 1.0
+cluster 45 with 1 alives and 1 deads the entropy is 1.0
+cluster 46 with 2 alives and 0 deads the entropy is 0
+cluster 47 with 1 alives and 1 deads the entropy is 1.0
+cluster 48 with 1 alives and 1 deads the entropy is 1.0
+cluster 49 with 1 alives and 1 deads the entropy is 1.0
+cluster 50 with 0 alives and 2 deads the entropy is 0
+cluster 51 with 2 alives and 0 deads the entropy is 0
+cluster 52 with 1 alives and 1 deads the entropy is 1.0
+cluster 53 with 1 alives and 1 deads the entropy is 1.0
+cluster 54 with 2 alives and 0 deads the entropy is 0
+cluster 55 with 1 alives and 1 deads the entropy is 1.0
+cluster 56 with 0 alives and 2 deads the entropy is 0
+cluster 57 with 1 alives and 1 deads the entropy is 1.0
+cluster 58 with 2 alives and 0 deads the entropy is 0
+cluster 59 with 2 alives and 0 deads the entropy is 0
+cluster 60 with 1 alives and 1 deads the entropy is 1.0
+cluster 61 with 2 alives and 0 deads the entropy is 0
+cluster 62 with 2 alives and 0 deads the entropy is 0
+cluster 63 with 2 alives and 0 deads the entropy is 0
+cluster 64 with 2 alives and 0 deads the entropy is 0
+cluster 65 with 2 alives and 0 deads the entropy is 0
+cluster 66 with 0 alives and 2 deads the entropy is 0
+cluster 67 with 1 alives and 1 deads the entropy is 1.0
+cluster 68 with 2 alives and 0 deads the entropy is 0
+cluster 69 with 2 alives and 0 deads the entropy is 0
+cluster 70 with 0 alives and 2 deads the entropy is 0
+cluster 71 with 0 alives and 2 deads the entropy is 0
+cluster 72 with 2 alives and 0 deads the entropy is 0
+cluster 73 with 2 alives and 0 deads the entropy is 0
+cluster 74 with 2 alives and 0 deads the entropy is 0
+cluster 75 with 1 alives and 1 deads the entropy is 1.0
+cluster 76 with 1 alives and 1 deads the entropy is 1.0
+cluster 77 with 1 alives and 1 deads the entropy is 1.0
+cluster 78 with 0 alives and 2 deads the entropy is 0
+cluster 79 with 2 alives and 0 deads the entropy is 0
+cluster 80 with 2 alives and 0 deads the entropy is 0
+cluster 81 with 2 alives and 0 deads the entropy is 0
+cluster 82 with 2 alives and 0 deads the entropy is 0
+cluster 83 with 0 alives and 2 deads the entropy is 0
+cluster 84 with 1 alives and 1 deads the entropy is 1.0
+cluster 85 with 0 alives and 2 deads the entropy is 0
+cluster 86 with 2 alives and 0 deads the entropy is 0
+cluster 87 with 2 alives and 0 deads the entropy is 0
+cluster 88 with 1 alives and 1 deads the entropy is 1.0
+cluster 89 with 2 alives and 0 deads the entropy is 0
+cluster 90 with 2 alives and 0 deads the entropy is 0
+cluster 91 with 2 alives and 0 deads the entropy is 0
+cluster 92 with 0 alives and 2 deads the entropy is 0
+cluster 93 with 0 alives and 2 deads the entropy is 0
+cluster 94 with 2 alives and 0 deads the entropy is 0
+cluster 95 with 2 alives and 0 deads the entropy is 0
+cluster 96 with 2 alives and 0 deads the entropy is 0
+cluster 97 with 1 alives and 1 deads the entropy is 1.0
+cluster 98 with 1 alives and 1 deads the entropy is 1.0
+cluster 99 with 1 alives and 1 deads the entropy is 1.0
+cluster 100 with 2 alives and 0 deads the entropy is 0
+cluster 101 with 2 alives and 0 deads the entropy is 0
+cluster 102 with 1 alives and 1 deads the entropy is 1.0
+cluster 103 with 2 alives and 0 deads the entropy is 0
+cluster 104 with 2 alives and 0 deads the entropy is 0
+cluster 105 with 2 alives and 0 deads the entropy is 0
+cluster 106 with 2 alives and 0 deads the entropy is 0
+cluster 107 with 2 alives and 0 deads the entropy is 0
+cluster 108 with 2 alives and 0 deads the entropy is 0
+cluster 109 with 2 alives and 0 deads the entropy is 0
+cluster 110 with 1 alives and 1 deads the entropy is 1.0
+cluster 111 with 2 alives and 0 deads the entropy is 0
+cluster 112 with 2 alives and 0 deads the entropy is 0
+cluster 113 with 2 alives and 0 deads the entropy is 0
+cluster 114 with 2 alives and 0 deads the entropy is 0
+cluster 115 with 0 alives and 2 deads the entropy is 0
+cluster 116 with 0 alives and 2 deads the entropy is 0
+cluster 117 with 1 alives and 1 deads the entropy is 1.0
+cluster 118 with 1 alives and 1 deads the entropy is 1.0
+cluster 119 with 1 alives and 1 deads the entropy is 1.0
+cluster 120 with 2 alives and 0 deads the entropy is 0
+cluster 121 with 2 alives and 0 deads the entropy is 0
+cluster 122 with 2 alives and 0 deads the entropy is 0
+cluster 123 with 1 alives and 1 deads the entropy is 1.0
+cluster 124 with 2 alives and 0 deads the entropy is 0
+cluster 125 with 2 alives and 0 deads the entropy is 0
+cluster 126 with 1 alives and 1 deads the entropy is 1.0
+cluster 127 with 2 alives and 0 deads the entropy is 0
+cluster 128 with 2 alives and 0 deads the entropy is 0
+cluster 129 with 1 alives and 1 deads the entropy is 1.0
+cluster 130 with 2 alives and 0 deads the entropy is 0
+cluster 131 with 2 alives and 0 deads the entropy is 0
+cluster 132 with 1 alives and 1 deads the entropy is 1.0
+cluster 133 with 1 alives and 1 deads the entropy is 1.0
+cluster 134 with 2 alives and 0 deads the entropy is 0
+cluster 135 with 1 alives and 1 deads the entropy is 1.0
+cluster 136 with 0 alives and 2 deads the entropy is 0
+cluster 137 with 2 alives and 0 deads the entropy is 0
+cluster 138 with 2 alives and 0 deads the entropy is 0
+cluster 139 with 1 alives and 1 deads the entropy is 1.0
+cluster 140 with 2 alives and 0 deads the entropy is 0
+cluster 141 with 2 alives and 0 deads the entropy is 0
+cluster 142 with 1 alives and 1 deads the entropy is 1.0
+cluster 143 with 1 alives and 1 deads the entropy is 1.0
+cluster 144 with 2 alives and 0 deads the entropy is 0
+cluster 145 with 1 alives and 1 deads the entropy is 1.0
+cluster 146 with 1 alives and 1 deads the entropy is 1.0
+cluster 147 with 2 alives and 0 deads the entropy is 0
+cluster 148 with 1 alives and 1 deads the entropy is 1.0
+cluster 149 with 2 alives and 0 deads the entropy is 0
+cluster 150 with 2 alives and 0 deads the entropy is 0
+cluster 151 with 2 alives and 0 deads the entropy is 0
+cluster 152 with 2 alives and 0 deads the entropy is 0
+cluster 153 with 0 alives and 2 deads the entropy is 0
+******************************
+cluster 1 has 2 points, and the cluster is : [[30, 64, 1, 1], [30, 65, 0, 1]]
+cluster 2 has 2 points, and the cluster is : [[30, 62, 3, 1], [31, 59, 2, 1]]
+cluster 3 has 2 points, and the cluster is : [[31, 65, 4, 1], [34, 67, 7, 1]]
+cluster 4 has 2 points, and the cluster is : [[33, 58, 10, 1], [34, 61, 10, 1]]
+cluster 5 has 2 points, and the cluster is : [[33, 60, 0, 1], [34, 60, 0, 1]]
+cluster 6 has 2 points, and the cluster is : [[34, 59, 0, 2], [34, 60, 1, 1]]
+cluster 7 has 2 points, and the cluster is : [[34, 66, 9, 2], [38, 66, 11, 1]]
+cluster 8 has 2 points, and the cluster is : [[34, 58, 30, 1], [41, 60, 23, 2]]
+cluster 9 has 2 points, and the cluster is : [[35, 64, 13, 1], [37, 60, 15, 1]]
+cluster 10 has 2 points, and the cluster is : [[35, 63, 0, 1], [37, 63, 0, 1]]
+cluster 11 has 2 points, and the cluster is : [[36, 60, 1, 1], [37, 60, 0, 1]]
+cluster 12 has 2 points, and the cluster is : [[36, 69, 0, 1], [38, 66, 0, 1]]
+cluster 13 has 2 points, and the cluster is : [[37, 58, 0, 1], [39, 58, 0, 1]]
+cluster 14 has 2 points, and the cluster is : [[37, 59, 6, 1], [38, 59, 2, 1]]
+cluster 15 has 2 points, and the cluster is : [[37, 63, 0, 1], [38, 64, 1, 1]]
+cluster 16 has 2 points, and the cluster is : [[38, 69, 21, 2], [44, 67, 16, 1]]
+cluster 17 has 2 points, and the cluster is : [[38, 60, 0, 1], [38, 60, 0, 1]]
+cluster 18 has 2 points, and the cluster is : [[38, 62, 3, 1], [39, 63, 4, 1]]
+cluster 19 has 2 points, and the cluster is : [[38, 60, 1, 1], [39, 59, 2, 1]]
+cluster 20 has 2 points, and the cluster is : [[38, 67, 5, 1], [41, 69, 8, 1]]
+cluster 21 has 2 points, and the cluster is : [[39, 66, 0, 2], [39, 67, 0, 1]]
+cluster 22 has 2 points, and the cluster is : [[39, 63, 0, 1], [40, 65, 0, 1]]
+cluster 23 has 2 points, and the cluster is : [[40, 58, 2, 1], [40, 58, 0, 1]]
+cluster 24 has 2 points, and the cluster is : [[41, 64, 0, 2], [41, 64, 0, 1]]
+cluster 25 has 2 points, and the cluster is : [[41, 67, 0, 2], [41, 65, 0, 1]]
+cluster 26 has 2 points, and the cluster is : [[41, 58, 0, 1], [41, 59, 0, 1]]
+cluster 27 has 2 points, and the cluster is : [[41, 59, 8, 1], [44, 58, 9, 2]]
+cluster 28 has 2 points, and the cluster is : [[41, 65, 0, 1], [42, 65, 0, 1]]
+cluster 29 has 2 points, and the cluster is : [[42, 69, 1, 2], [45, 68, 0, 1]]
+cluster 30 has 2 points, and the cluster is : [[42, 59, 0, 2], [42, 58, 0, 1]]
+cluster 31 has 2 points, and the cluster is : [[42, 60, 1, 1], [42, 59, 2, 1]]
+cluster 32 has 2 points, and the cluster is : [[42, 61, 4, 1], [43, 59, 2, 2]]
+cluster 33 has 2 points, and the cluster is : [[42, 62, 20, 1], [44, 63, 19, 2]]
+cluster 34 has 2 points, and the cluster is : [[42, 63, 1, 1], [43, 63, 2, 1]]
+cluster 35 has 2 points, and the cluster is : [[43, 58, 52, 2], [54, 67, 46, 1]]
+cluster 36 has 2 points, and the cluster is : [[43, 64, 0, 2], [43, 64, 0, 2]]
+cluster 37 has 2 points, and the cluster is : [[43, 63, 14, 1], [45, 59, 14, 1]]
+cluster 38 has 2 points, and the cluster is : [[43, 64, 2, 1], [43, 64, 3, 1]]
+cluster 39 has 2 points, and the cluster is : [[43, 60, 0, 1], [44, 61, 0, 1]]
+cluster 40 has 2 points, and the cluster is : [[43, 65, 0, 1], [45, 66, 0, 2]]
+cluster 41 has 2 points, and the cluster is : [[43, 66, 4, 1], [44, 64, 6, 2]]
+cluster 42 has 2 points, and the cluster is : [[44, 63, 1, 1], [45, 64, 0, 1]]
+cluster 43 has 2 points, and the cluster is : [[44, 61, 0, 1], [45, 60, 0, 1]]
+cluster 44 has 2 points, and the cluster is : [[45, 65, 6, 2], [47, 63, 6, 1]]
+cluster 45 has 2 points, and the cluster is : [[45, 67, 1, 2], [45, 67, 1, 1]]
+cluster 46 has 2 points, and the cluster is : [[45, 67, 0, 1], [47, 67, 0, 1]]
+cluster 47 has 2 points, and the cluster is : [[46, 58, 2, 2], [46, 58, 3, 1]]
+cluster 48 has 2 points, and the cluster is : [[46, 69, 3, 2], [47, 68, 4, 1]]
+cluster 49 has 2 points, and the cluster is : [[46, 62, 5, 2], [47, 60, 4, 1]]
+cluster 50 has 2 points, and the cluster is : [[46, 65, 20, 2], [47, 63, 23, 2]]
+cluster 51 has 2 points, and the cluster is : [[46, 62, 0, 1], [46, 63, 0, 1]]
+cluster 52 has 2 points, and the cluster is : [[47, 62, 0, 2], [47, 61, 0, 1]]
+cluster 53 has 2 points, and the cluster is : [[47, 65, 0, 2], [47, 66, 0, 1]]
+cluster 54 has 2 points, and the cluster is : [[47, 58, 3, 1], [50, 59, 2, 1]]
+cluster 55 has 2 points, and the cluster is : [[47, 66, 12, 1], [49, 64, 10, 2]]
+cluster 56 has 2 points, and the cluster is : [[48, 58, 11, 2], [48, 58, 11, 2]]
+cluster 57 has 2 points, and the cluster is : [[48, 67, 7, 2], [50, 65, 4, 1]]
+cluster 58 has 2 points, and the cluster is : [[48, 61, 8, 1], [50, 61, 6, 1]]
+cluster 59 has 2 points, and the cluster is : [[48, 62, 2, 1], [49, 62, 1, 1]]
+cluster 60 has 2 points, and the cluster is : [[48, 64, 0, 1], [49, 63, 0, 2]]
+cluster 61 has 2 points, and the cluster is : [[48, 66, 0, 1], [49, 66, 0, 1]]
+cluster 62 has 2 points, and the cluster is : [[49, 61, 1, 1], [49, 60, 1, 1]]
+cluster 63 has 2 points, and the cluster is : [[49, 62, 0, 1], [49, 61, 0, 1]]
+cluster 64 has 2 points, and the cluster is : [[49, 63, 3, 1], [50, 63, 1, 1]]
+cluster 65 has 2 points, and the cluster is : [[49, 67, 1, 1], [50, 66, 1, 1]]
+cluster 66 has 2 points, and the cluster is : [[50, 63, 13, 2], [53, 65, 12, 2]]
+cluster 67 has 2 points, and the cluster is : [[50, 64, 0, 2], [50, 64, 0, 1]]
+cluster 68 has 2 points, and the cluster is : [[50, 59, 0, 1], [50, 58, 1, 1]]
+cluster 69 has 2 points, and the cluster is : [[50, 61, 0, 1], [50, 61, 0, 1]]
+cluster 70 has 2 points, and the cluster is : [[51, 59, 13, 2], [54, 60, 11, 2]]
+cluster 71 has 2 points, and the cluster is : [[51, 59, 3, 2], [52, 59, 2, 2]]
+cluster 72 has 2 points, and the cluster is : [[51, 64, 7, 1], [52, 63, 4, 1]]
+cluster 73 has 2 points, and the cluster is : [[51, 59, 1, 1], [53, 58, 1, 1]]
+cluster 74 has 2 points, and the cluster is : [[51, 65, 0, 1], [52, 65, 0, 1]]
+cluster 75 has 2 points, and the cluster is : [[51, 66, 1, 1], [53, 65, 1, 2]]
+cluster 76 has 2 points, and the cluster is : [[52, 69, 3, 2], [52, 69, 0, 1]]
+cluster 77 has 2 points, and the cluster is : [[52, 62, 3, 2], [52, 62, 1, 1]]
+cluster 78 has 2 points, and the cluster is : [[52, 66, 4, 2], [54, 65, 5, 2]]
+cluster 79 has 2 points, and the cluster is : [[52, 61, 0, 1], [52, 62, 0, 1]]
+cluster 80 has 2 points, and the cluster is : [[52, 60, 4, 1], [52, 60, 5, 1]]
+cluster 81 has 2 points, and the cluster is : [[52, 64, 0, 1], [53, 63, 0, 1]]
+cluster 82 has 2 points, and the cluster is : [[52, 68, 0, 1], [54, 66, 0, 1]]
+cluster 83 has 2 points, and the cluster is : [[53, 58, 4, 2], [53, 59, 3, 2]]
+cluster 84 has 2 points, and the cluster is : [[53, 60, 9, 2], [54, 59, 7, 1]]
+cluster 85 has 2 points, and the cluster is : [[53, 63, 24, 2], [54, 65, 23, 2]]
+cluster 86 has 2 points, and the cluster is : [[53, 60, 1, 1], [53, 60, 2, 1]]
+cluster 87 has 2 points, and the cluster is : [[53, 61, 1, 1], [54, 62, 0, 1]]
+cluster 88 has 2 points, and the cluster is : [[54, 68, 7, 2], [54, 69, 7, 1]]
+cluster 89 has 2 points, and the cluster is : [[54, 60, 3, 1], [54, 58, 1, 1]]
+cluster 90 has 2 points, and the cluster is : [[54, 63, 19, 1], [55, 66, 18, 1]]
+cluster 91 has 2 points, and the cluster is : [[54, 62, 0, 1], [56, 60, 0, 1]]
+cluster 92 has 2 points, and the cluster is : [[55, 63, 6, 2], [57, 61, 5, 2]]
+cluster 93 has 2 points, and the cluster is : [[55, 68, 15, 2], [57, 62, 14, 2]]
+cluster 94 has 2 points, and the cluster is : [[55, 58, 1, 1], [55, 58, 1, 1]]
+cluster 95 has 2 points, and the cluster is : [[55, 58, 0, 1], [56, 60, 0, 1]]
+cluster 96 has 2 points, and the cluster is : [[55, 66, 0, 1], [55, 67, 1, 1]]
+cluster 97 has 2 points, and the cluster is : [[55, 69, 3, 1], [56, 66, 3, 2]]
+cluster 98 has 2 points, and the cluster is : [[55, 69, 22, 1], [62, 65, 19, 2]]
+cluster 99 has 2 points, and the cluster is : [[56, 65, 9, 2], [57, 64, 9, 1]]
+cluster 100 has 2 points, and the cluster is : [[56, 66, 2, 1], [56, 66, 1, 1]]
+cluster 101 has 2 points, and the cluster is : [[56, 67, 0, 1], [57, 67, 0, 1]]
+cluster 102 has 2 points, and the cluster is : [[57, 64, 1, 2], [57, 64, 0, 1]]
+cluster 103 has 2 points, and the cluster is : [[57, 69, 0, 1], [58, 67, 0, 1]]
+cluster 104 has 2 points, and the cluster is : [[57, 61, 0, 1], [57, 62, 0, 1]]
+cluster 105 has 2 points, and the cluster is : [[57, 63, 0, 1], [57, 64, 0, 1]]
+cluster 106 has 2 points, and the cluster is : [[58, 59, 0, 1], [58, 58, 0, 1]]
+cluster 107 has 2 points, and the cluster is : [[58, 60, 3, 1], [58, 61, 2, 1]]
+cluster 108 has 2 points, and the cluster is : [[58, 61, 1, 1], [59, 60, 0, 1]]
+cluster 109 has 2 points, and the cluster is : [[58, 58, 3, 1], [60, 61, 1, 1]]
+cluster 110 has 2 points, and the cluster is : [[59, 62, 35, 2], [63, 61, 28, 1]]
+cluster 111 has 2 points, and the cluster is : [[59, 63, 0, 1], [59, 64, 0, 1]]
+cluster 112 has 2 points, and the cluster is : [[59, 64, 1, 1], [60, 64, 0, 1]]
+cluster 113 has 2 points, and the cluster is : [[59, 64, 4, 1], [59, 64, 7, 1]]
+cluster 114 has 2 points, and the cluster is : [[59, 67, 3, 1], [60, 67, 2, 1]]
+cluster 115 has 2 points, and the cluster is : [[60, 59, 17, 2], [62, 59, 13, 2]]
+cluster 116 has 2 points, and the cluster is : [[60, 65, 0, 2], [61, 65, 0, 2]]
+cluster 117 has 2 points, and the cluster is : [[60, 61, 25, 1], [65, 62, 22, 2]]
+cluster 118 has 2 points, and the cluster is : [[61, 62, 5, 2], [62, 62, 6, 1]]
+cluster 119 has 2 points, and the cluster is : [[61, 68, 1, 2], [61, 68, 0, 1]]
+cluster 120 has 2 points, and the cluster is : [[61, 59, 0, 1], [61, 59, 0, 1]]
+cluster 121 has 2 points, and the cluster is : [[61, 64, 0, 1], [62, 66, 0, 1]]
+cluster 122 has 2 points, and the cluster is : [[61, 65, 8, 1], [63, 61, 9, 1]]
+cluster 123 has 2 points, and the cluster is : [[61, 59, 0, 1], [62, 58, 0, 2]]
+cluster 124 has 2 points, and the cluster is : [[62, 66, 0, 1], [63, 66, 0, 1]]
+cluster 125 has 2 points, and the cluster is : [[62, 58, 0, 1], [64, 58, 0, 1]]
+cluster 126 has 2 points, and the cluster is : [[63, 60, 1, 2], [63, 61, 0, 1]]
+cluster 127 has 2 points, and the cluster is : [[63, 62, 0, 1], [63, 63, 0, 1]]
+cluster 128 has 2 points, and the cluster is : [[63, 63, 0, 1], [64, 61, 0, 1]]
+cluster 129 has 2 points, and the cluster is : [[64, 65, 22, 1], [65, 66, 15, 2]]
+cluster 130 has 2 points, and the cluster is : [[64, 66, 0, 1], [65, 67, 0, 1]]
+cluster 131 has 2 points, and the cluster is : [[64, 68, 0, 1], [65, 67, 1, 1]]
+cluster 132 has 2 points, and the cluster is : [[65, 58, 0, 2], [65, 58, 0, 1]]
+cluster 133 has 2 points, and the cluster is : [[65, 61, 2, 2], [65, 59, 2, 1]]
+cluster 134 has 2 points, and the cluster is : [[65, 64, 0, 1], [65, 64, 0, 1]]
+cluster 135 has 2 points, and the cluster is : [[66, 58, 0, 2], [66, 58, 0, 1]]
+cluster 136 has 2 points, and the cluster is : [[66, 61, 13, 2], [67, 64, 8, 2]]
+cluster 137 has 2 points, and the cluster is : [[66, 58, 1, 1], [67, 61, 0, 1]]
+cluster 138 has 2 points, and the cluster is : [[66, 68, 0, 1], [68, 68, 0, 1]]
+cluster 139 has 2 points, and the cluster is : [[67, 63, 1, 2], [67, 65, 0, 1]]
+cluster 140 has 2 points, and the cluster is : [[67, 66, 0, 1], [67, 66, 0, 1]]
+cluster 141 has 2 points, and the cluster is : [[68, 67, 0, 1], [69, 66, 0, 1]]
+cluster 142 has 2 points, and the cluster is : [[69, 67, 8, 2], [72, 67, 3, 1]]
+cluster 143 has 2 points, and the cluster is : [[69, 60, 0, 1], [70, 58, 0, 2]]
+cluster 144 has 2 points, and the cluster is : [[69, 65, 0, 1], [70, 67, 0, 1]]
+cluster 145 has 2 points, and the cluster is : [[70, 58, 4, 2], [70, 59, 8, 1]]
+cluster 146 has 2 points, and the cluster is : [[70, 66, 14, 1], [74, 65, 3, 2]]
+cluster 147 has 2 points, and the cluster is : [[70, 68, 0, 1], [71, 68, 2, 1]]
+cluster 148 has 2 points, and the cluster is : [[70, 63, 0, 1], [72, 63, 0, 2]]
+cluster 149 has 2 points, and the cluster is : [[72, 58, 0, 1], [73, 62, 0, 1]]
+cluster 150 has 2 points, and the cluster is : [[72, 64, 0, 1], [74, 63, 0, 1]]
+cluster 151 has 2 points, and the cluster is : [[73, 68, 0, 1], [76, 67, 0, 1]]
+cluster 152 has 2 points, and the cluster is : [[75, 62, 1, 1], [77, 65, 3, 1]]
+cluster 153 has 2 points, and the cluster is : [[78, 65, 1, 2], [83, 58, 2, 2]]
+____________________________________________________________________________________________________
+how many clusters :  77
+cluster 1 with 4 alives and 0 deads the entropy is 0
+cluster 2 with 3 alives and 1 deads the entropy is 0.8112781244591328
+cluster 3 with 4 alives and 0 deads the entropy is 0
+cluster 4 with 3 alives and 1 deads the entropy is 0.8112781244591328
+cluster 5 with 2 alives and 2 deads the entropy is 1.0
+cluster 6 with 4 alives and 0 deads the entropy is 0
+cluster 7 with 4 alives and 0 deads the entropy is 0
+cluster 8 with 3 alives and 1 deads the entropy is 0.8112781244591328
+cluster 9 with 4 alives and 0 deads the entropy is 0
+cluster 10 with 4 alives and 0 deads the entropy is 0
+cluster 11 with 3 alives and 1 deads the entropy is 0.8112781244591328
+cluster 12 with 4 alives and 0 deads the entropy is 0
+cluster 13 with 3 alives and 1 deads the entropy is 0.8112781244591328
+cluster 14 with 2 alives and 2 deads the entropy is 1.0
+cluster 15 with 3 alives and 1 deads the entropy is 0.8112781244591328
+cluster 16 with 1 alives and 3 deads the entropy is 0.8112781244591328
+cluster 17 with 3 alives and 1 deads the entropy is 0.8112781244591328
+cluster 18 with 3 alives and 1 deads the entropy is 0.8112781244591328
+cluster 19 with 3 alives and 1 deads the entropy is 0.8112781244591328
+cluster 20 with 4 alives and 0 deads the entropy is 0
+cluster 21 with 2 alives and 2 deads the entropy is 1.0
+cluster 22 with 2 alives and 2 deads the entropy is 1.0
+cluster 23 with 4 alives and 0 deads the entropy is 0
+cluster 24 with 2 alives and 2 deads the entropy is 1.0
+cluster 25 with 2 alives and 2 deads the entropy is 1.0
+cluster 26 with 3 alives and 1 deads the entropy is 0.8112781244591328
+cluster 27 with 2 alives and 2 deads the entropy is 1.0
+cluster 28 with 0 alives and 4 deads the entropy is 0
+cluster 29 with 3 alives and 1 deads the entropy is 0.8112781244591328
+cluster 30 with 1 alives and 3 deads the entropy is 0.8112781244591328
+cluster 31 with 4 alives and 0 deads the entropy is 0
+cluster 32 with 4 alives and 0 deads the entropy is 0
+cluster 33 with 3 alives and 1 deads the entropy is 0.8112781244591328
+cluster 34 with 4 alives and 0 deads the entropy is 0
+cluster 35 with 3 alives and 1 deads the entropy is 0.8112781244591328
+cluster 36 with 4 alives and 0 deads the entropy is 0
+cluster 37 with 4 alives and 0 deads the entropy is 0
+cluster 38 with 1 alives and 3 deads the entropy is 0.8112781244591328
+cluster 39 with 0 alives and 4 deads the entropy is 0
+cluster 40 with 3 alives and 1 deads the entropy is 0.8112781244591328
+cluster 41 with 4 alives and 0 deads the entropy is 0
+cluster 42 with 3 alives and 1 deads the entropy is 0.8112781244591328
+cluster 43 with 2 alives and 2 deads the entropy is 1.0
+cluster 44 with 0 alives and 4 deads the entropy is 0
+cluster 45 with 4 alives and 0 deads the entropy is 0
+cluster 46 with 2 alives and 2 deads the entropy is 1.0
+cluster 47 with 4 alives and 0 deads the entropy is 0
+cluster 48 with 2 alives and 2 deads the entropy is 1.0
+cluster 49 with 4 alives and 0 deads the entropy is 0
+cluster 50 with 4 alives and 0 deads the entropy is 0
+cluster 51 with 2 alives and 2 deads the entropy is 1.0
+cluster 52 with 4 alives and 0 deads the entropy is 0
+cluster 53 with 3 alives and 1 deads the entropy is 0.8112781244591328
+cluster 54 with 4 alives and 0 deads the entropy is 0
+cluster 55 with 4 alives and 0 deads the entropy is 0
+cluster 56 with 4 alives and 0 deads the entropy is 0
+cluster 57 with 2 alives and 2 deads the entropy is 1.0
+cluster 58 with 4 alives and 0 deads the entropy is 0
+cluster 59 with 3 alives and 1 deads the entropy is 0.8112781244591328
+cluster 60 with 0 alives and 4 deads the entropy is 0
+cluster 61 with 2 alives and 2 deads the entropy is 1.0
+cluster 62 with 2 alives and 2 deads the entropy is 1.0
+cluster 63 with 3 alives and 1 deads the entropy is 0.8112781244591328
+cluster 64 with 4 alives and 0 deads the entropy is 0
+cluster 65 with 3 alives and 1 deads the entropy is 0.8112781244591328
+cluster 66 with 4 alives and 0 deads the entropy is 0
+cluster 67 with 4 alives and 0 deads the entropy is 0
+cluster 68 with 3 alives and 1 deads the entropy is 0.8112781244591328
+cluster 69 with 3 alives and 1 deads the entropy is 0.8112781244591328
+cluster 70 with 2 alives and 2 deads the entropy is 1.0
+cluster 71 with 4 alives and 0 deads the entropy is 0
+cluster 72 with 4 alives and 0 deads the entropy is 0
+cluster 73 with 3 alives and 1 deads the entropy is 0.8112781244591328
+cluster 74 with 3 alives and 1 deads the entropy is 0.8112781244591328
+cluster 75 with 3 alives and 1 deads the entropy is 0.8112781244591328
+cluster 76 with 2 alives and 2 deads the entropy is 1.0
+cluster 77 with 2 alives and 0 deads the entropy is 0
+******************************
+cluster 1 has 4 points, and the cluster is : [[30, 64, 1, 1], [30, 65, 0, 1], [30, 62, 3, 1], [31, 59, 2, 1]]
+cluster 2 has 4 points, and the cluster is : [[31, 65, 4, 1], [34, 67, 7, 1], [34, 66, 9, 2], [38, 66, 11, 1]]
+cluster 3 has 4 points, and the cluster is : [[33, 58, 10, 1], [34, 61, 10, 1], [35, 64, 13, 1], [37, 60, 15, 1]]
+cluster 4 has 4 points, and the cluster is : [[33, 60, 0, 1], [34, 60, 0, 1], [34, 59, 0, 2], [34, 60, 1, 1]]
+cluster 5 has 4 points, and the cluster is : [[34, 58, 30, 1], [41, 60, 23, 2], [42, 62, 20, 1], [44, 63, 19, 2]]
+cluster 6 has 4 points, and the cluster is : [[35, 63, 0, 1], [37, 63, 0, 1], [37, 63, 0, 1], [38, 64, 1, 1]]
+cluster 7 has 4 points, and the cluster is : [[36, 60, 1, 1], [37, 60, 0, 1], [38, 60, 0, 1], [38, 60, 0, 1]]
+cluster 8 has 4 points, and the cluster is : [[36, 69, 0, 1], [38, 66, 0, 1], [39, 66, 0, 2], [39, 67, 0, 1]]
+cluster 9 has 4 points, and the cluster is : [[37, 58, 0, 1], [39, 58, 0, 1], [40, 58, 2, 1], [40, 58, 0, 1]]
+cluster 10 has 4 points, and the cluster is : [[37, 59, 6, 1], [38, 59, 2, 1], [38, 60, 1, 1], [39, 59, 2, 1]]
+cluster 11 has 4 points, and the cluster is : [[38, 69, 21, 2], [44, 67, 16, 1], [43, 63, 14, 1], [45, 59, 14, 1]]
+cluster 12 has 4 points, and the cluster is : [[38, 62, 3, 1], [39, 63, 4, 1], [39, 63, 0, 1], [40, 65, 0, 1]]
+cluster 13 has 4 points, and the cluster is : [[38, 67, 5, 1], [41, 69, 8, 1], [43, 66, 4, 1], [44, 64, 6, 2]]
+cluster 14 has 4 points, and the cluster is : [[41, 64, 0, 2], [41, 64, 0, 1], [41, 67, 0, 2], [41, 65, 0, 1]]
+cluster 15 has 4 points, and the cluster is : [[41, 58, 0, 1], [41, 59, 0, 1], [42, 59, 0, 2], [42, 58, 0, 1]]
+cluster 16 has 4 points, and the cluster is : [[41, 59, 8, 1], [44, 58, 9, 2], [48, 58, 11, 2], [48, 58, 11, 2]]
+cluster 17 has 4 points, and the cluster is : [[41, 65, 0, 1], [42, 65, 0, 1], [43, 65, 0, 1], [45, 66, 0, 2]]
+cluster 18 has 4 points, and the cluster is : [[42, 69, 1, 2], [45, 68, 0, 1], [45, 67, 0, 1], [47, 67, 0, 1]]
+cluster 19 has 4 points, and the cluster is : [[42, 60, 1, 1], [42, 59, 2, 1], [42, 61, 4, 1], [43, 59, 2, 2]]
+cluster 20 has 4 points, and the cluster is : [[42, 63, 1, 1], [43, 63, 2, 1], [43, 64, 2, 1], [43, 64, 3, 1]]
+cluster 21 has 4 points, and the cluster is : [[43, 58, 52, 2], [54, 67, 46, 1], [59, 62, 35, 2], [63, 61, 28, 1]]
+cluster 22 has 4 points, and the cluster is : [[43, 64, 0, 2], [43, 64, 0, 2], [44, 63, 1, 1], [45, 64, 0, 1]]
+cluster 23 has 4 points, and the cluster is : [[43, 60, 0, 1], [44, 61, 0, 1], [44, 61, 0, 1], [45, 60, 0, 1]]
+cluster 24 has 4 points, and the cluster is : [[45, 65, 6, 2], [47, 63, 6, 1], [46, 62, 5, 2], [47, 60, 4, 1]]
+cluster 25 has 4 points, and the cluster is : [[45, 67, 1, 2], [45, 67, 1, 1], [47, 65, 0, 2], [47, 66, 0, 1]]
+cluster 26 has 4 points, and the cluster is : [[46, 58, 2, 2], [46, 58, 3, 1], [47, 58, 3, 1], [50, 59, 2, 1]]
+cluster 27 has 4 points, and the cluster is : [[46, 69, 3, 2], [47, 68, 4, 1], [48, 67, 7, 2], [50, 65, 4, 1]]
+cluster 28 has 4 points, and the cluster is : [[46, 65, 20, 2], [47, 63, 23, 2], [53, 63, 24, 2], [54, 65, 23, 2]]
+cluster 29 has 4 points, and the cluster is : [[46, 62, 0, 1], [46, 63, 0, 1], [47, 62, 0, 2], [47, 61, 0, 1]]
+cluster 30 has 4 points, and the cluster is : [[47, 66, 12, 1], [49, 64, 10, 2], [50, 63, 13, 2], [53, 65, 12, 2]]
+cluster 31 has 4 points, and the cluster is : [[48, 61, 8, 1], [50, 61, 6, 1], [52, 60, 4, 1], [52, 60, 5, 1]]
+cluster 32 has 4 points, and the cluster is : [[48, 62, 2, 1], [49, 62, 1, 1], [49, 61, 1, 1], [49, 60, 1, 1]]
+cluster 33 has 4 points, and the cluster is : [[48, 64, 0, 1], [49, 63, 0, 2], [49, 62, 0, 1], [49, 61, 0, 1]]
+cluster 34 has 4 points, and the cluster is : [[48, 66, 0, 1], [49, 66, 0, 1], [49, 67, 1, 1], [50, 66, 1, 1]]
+cluster 35 has 4 points, and the cluster is : [[49, 63, 3, 1], [50, 63, 1, 1], [50, 64, 0, 2], [50, 64, 0, 1]]
+cluster 36 has 4 points, and the cluster is : [[50, 59, 0, 1], [50, 58, 1, 1], [51, 59, 1, 1], [53, 58, 1, 1]]
+cluster 37 has 4 points, and the cluster is : [[50, 61, 0, 1], [50, 61, 0, 1], [52, 61, 0, 1], [52, 62, 0, 1]]
+cluster 38 has 4 points, and the cluster is : [[51, 59, 13, 2], [54, 60, 11, 2], [53, 60, 9, 2], [54, 59, 7, 1]]
+cluster 39 has 4 points, and the cluster is : [[51, 59, 3, 2], [52, 59, 2, 2], [53, 58, 4, 2], [53, 59, 3, 2]]
+cluster 40 has 4 points, and the cluster is : [[51, 64, 7, 1], [52, 63, 4, 1], [52, 62, 3, 2], [52, 62, 1, 1]]
+cluster 41 has 4 points, and the cluster is : [[51, 65, 0, 1], [52, 65, 0, 1], [52, 64, 0, 1], [53, 63, 0, 1]]
+cluster 42 has 4 points, and the cluster is : [[51, 66, 1, 1], [53, 65, 1, 2], [52, 68, 0, 1], [54, 66, 0, 1]]
+cluster 43 has 4 points, and the cluster is : [[52, 69, 3, 2], [52, 69, 0, 1], [55, 69, 3, 1], [56, 66, 3, 2]]
+cluster 44 has 4 points, and the cluster is : [[52, 66, 4, 2], [54, 65, 5, 2], [55, 63, 6, 2], [57, 61, 5, 2]]
+cluster 45 has 4 points, and the cluster is : [[53, 60, 1, 1], [53, 60, 2, 1], [53, 61, 1, 1], [54, 62, 0, 1]]
+cluster 46 has 4 points, and the cluster is : [[54, 68, 7, 2], [54, 69, 7, 1], [56, 65, 9, 2], [57, 64, 9, 1]]
+cluster 47 has 4 points, and the cluster is : [[54, 60, 3, 1], [54, 58, 1, 1], [55, 58, 1, 1], [55, 58, 1, 1]]
+cluster 48 has 4 points, and the cluster is : [[54, 63, 19, 1], [55, 66, 18, 1], [55, 68, 15, 2], [57, 62, 14, 2]]
+cluster 49 has 4 points, and the cluster is : [[54, 62, 0, 1], [56, 60, 0, 1], [55, 58, 0, 1], [56, 60, 0, 1]]
+cluster 50 has 4 points, and the cluster is : [[55, 66, 0, 1], [55, 67, 1, 1], [56, 66, 2, 1], [56, 66, 1, 1]]
+cluster 51 has 4 points, and the cluster is : [[55, 69, 22, 1], [62, 65, 19, 2], [64, 65, 22, 1], [65, 66, 15, 2]]
+cluster 52 has 4 points, and the cluster is : [[56, 67, 0, 1], [57, 67, 0, 1], [57, 69, 0, 1], [58, 67, 0, 1]]
+cluster 53 has 4 points, and the cluster is : [[57, 64, 1, 2], [57, 64, 0, 1], [57, 63, 0, 1], [57, 64, 0, 1]]
+cluster 54 has 4 points, and the cluster is : [[57, 61, 0, 1], [57, 62, 0, 1], [58, 61, 1, 1], [59, 60, 0, 1]]
+cluster 55 has 4 points, and the cluster is : [[58, 59, 0, 1], [58, 58, 0, 1], [58, 60, 3, 1], [58, 61, 2, 1]]
+cluster 56 has 4 points, and the cluster is : [[58, 58, 3, 1], [60, 61, 1, 1], [59, 63, 0, 1], [59, 64, 0, 1]]
+cluster 57 has 4 points, and the cluster is : [[59, 64, 1, 1], [60, 64, 0, 1], [60, 65, 0, 2], [61, 65, 0, 2]]
+cluster 58 has 4 points, and the cluster is : [[59, 64, 4, 1], [59, 64, 7, 1], [61, 65, 8, 1], [63, 61, 9, 1]]
+cluster 59 has 4 points, and the cluster is : [[59, 67, 3, 1], [60, 67, 2, 1], [61, 68, 1, 2], [61, 68, 0, 1]]
+cluster 60 has 4 points, and the cluster is : [[60, 59, 17, 2], [62, 59, 13, 2], [66, 61, 13, 2], [67, 64, 8, 2]]
+cluster 61 has 4 points, and the cluster is : [[60, 61, 25, 1], [65, 62, 22, 2], [70, 66, 14, 1], [74, 65, 3, 2]]
+cluster 62 has 4 points, and the cluster is : [[61, 62, 5, 2], [62, 62, 6, 1], [63, 60, 1, 2], [63, 61, 0, 1]]
+cluster 63 has 4 points, and the cluster is : [[61, 59, 0, 1], [61, 59, 0, 1], [61, 59, 0, 1], [62, 58, 0, 2]]
+cluster 64 has 4 points, and the cluster is : [[61, 64, 0, 1], [62, 66, 0, 1], [62, 66, 0, 1], [63, 66, 0, 1]]
+cluster 65 has 4 points, and the cluster is : [[62, 58, 0, 1], [64, 58, 0, 1], [65, 58, 0, 2], [65, 58, 0, 1]]
+cluster 66 has 4 points, and the cluster is : [[63, 62, 0, 1], [63, 63, 0, 1], [63, 63, 0, 1], [64, 61, 0, 1]]
+cluster 67 has 4 points, and the cluster is : [[64, 66, 0, 1], [65, 67, 0, 1], [64, 68, 0, 1], [65, 67, 1, 1]]
+cluster 68 has 4 points, and the cluster is : [[65, 61, 2, 2], [65, 59, 2, 1], [66, 58, 1, 1], [67, 61, 0, 1]]
+cluster 69 has 4 points, and the cluster is : [[65, 64, 0, 1], [65, 64, 0, 1], [67, 63, 1, 2], [67, 65, 0, 1]]
+cluster 70 has 4 points, and the cluster is : [[66, 58, 0, 2], [66, 58, 0, 1], [69, 60, 0, 1], [70, 58, 0, 2]]
+cluster 71 has 4 points, and the cluster is : [[66, 68, 0, 1], [68, 68, 0, 1], [68, 67, 0, 1], [69, 66, 0, 1]]
+cluster 72 has 4 points, and the cluster is : [[67, 66, 0, 1], [67, 66, 0, 1], [69, 65, 0, 1], [70, 67, 0, 1]]
+cluster 73 has 4 points, and the cluster is : [[69, 67, 8, 2], [72, 67, 3, 1], [70, 68, 0, 1], [71, 68, 2, 1]]
+cluster 74 has 4 points, and the cluster is : [[70, 58, 4, 2], [70, 59, 8, 1], [72, 58, 0, 1], [73, 62, 0, 1]]
+cluster 75 has 4 points, and the cluster is : [[70, 63, 0, 1], [72, 63, 0, 2], [72, 64, 0, 1], [74, 63, 0, 1]]
+cluster 76 has 4 points, and the cluster is : [[73, 68, 0, 1], [76, 67, 0, 1], [78, 65, 1, 2], [83, 58, 2, 2]]
+cluster 77 has 2 points, and the cluster is : [[75, 62, 1, 1], [77, 65, 3, 1]]
+____________________________________________________________________________________________________
+how many clusters :  39
+cluster 1 with 7 alives and 1 deads the entropy is 0.5435644431995964
+cluster 2 with 7 alives and 1 deads the entropy is 0.5435644431995964
+cluster 3 with 2 alives and 6 deads the entropy is 0.8112781244591328
+cluster 4 with 8 alives and 0 deads the entropy is 0
+cluster 5 with 8 alives and 0 deads the entropy is 0
+cluster 6 with 5 alives and 3 deads the entropy is 0.954434002924965
+cluster 7 with 7 alives and 1 deads the entropy is 0.5435644431995964
+cluster 8 with 4 alives and 4 deads the entropy is 1.0
+cluster 9 with 5 alives and 3 deads the entropy is 0.954434002924965
+cluster 10 with 6 alives and 2 deads the entropy is 0.8112781244591328
+cluster 11 with 7 alives and 1 deads the entropy is 0.5435644431995964
+cluster 12 with 6 alives and 2 deads the entropy is 0.8112781244591328
+cluster 13 with 4 alives and 4 deads the entropy is 1.0
+cluster 14 with 6 alives and 2 deads the entropy is 0.8112781244591328
+cluster 15 with 7 alives and 1 deads the entropy is 0.5435644431995964
+cluster 16 with 2 alives and 6 deads the entropy is 0.8112781244591328
+cluster 17 with 6 alives and 2 deads the entropy is 0.8112781244591328
+cluster 18 with 4 alives and 4 deads the entropy is 1.0
+cluster 19 with 4 alives and 4 deads the entropy is 1.0
+cluster 20 with 7 alives and 1 deads the entropy is 0.5435644431995964
+cluster 21 with 8 alives and 0 deads the entropy is 0
+cluster 22 with 5 alives and 3 deads the entropy is 0.954434002924965
+cluster 23 with 5 alives and 3 deads the entropy is 0.954434002924965
+cluster 24 with 8 alives and 0 deads the entropy is 0
+cluster 25 with 6 alives and 2 deads the entropy is 0.8112781244591328
+cluster 26 with 4 alives and 4 deads the entropy is 1.0
+cluster 27 with 8 alives and 0 deads the entropy is 0
+cluster 28 with 7 alives and 1 deads the entropy is 0.5435644431995964
+cluster 29 with 8 alives and 0 deads the entropy is 0
+cluster 30 with 6 alives and 2 deads the entropy is 0.8112781244591328
+cluster 31 with 7 alives and 1 deads the entropy is 0.5435644431995964
+cluster 32 with 3 alives and 5 deads the entropy is 0.954434002924965
+cluster 33 with 6 alives and 2 deads the entropy is 0.8112781244591328
+cluster 34 with 6 alives and 2 deads the entropy is 0.8112781244591328
+cluster 35 with 5 alives and 3 deads the entropy is 0.954434002924965
+cluster 36 with 7 alives and 1 deads the entropy is 0.5435644431995964
+cluster 37 with 7 alives and 1 deads the entropy is 0.5435644431995964
+cluster 38 with 5 alives and 1 deads the entropy is 0.6500224216483541
+cluster 39 with 2 alives and 2 deads the entropy is 1.0
+******************************
+cluster 1 has 8 points, and the cluster is : [[30, 64, 1, 1], [30, 65, 0, 1], [30, 62, 3, 1], [31, 59, 2, 1], [33, 60, 0, 1], [34, 60, 0, 1], [34, 59, 0, 2], [34, 60, 1, 1]]
+cluster 2 has 8 points, and the cluster is : [[31, 65, 4, 1], [34, 67, 7, 1], [34, 66, 9, 2], [38, 66, 11, 1], [33, 58, 10, 1], [34, 61, 10, 1], [35, 64, 13, 1], [37, 60, 15, 1]]
+cluster 3 has 8 points, and the cluster is : [[34, 58, 30, 1], [41, 60, 23, 2], [42, 62, 20, 1], [44, 63, 19, 2], [46, 65, 20, 2], [47, 63, 23, 2], [53, 63, 24, 2], [54, 65, 23, 2]]
+cluster 4 has 8 points, and the cluster is : [[35, 63, 0, 1], [37, 63, 0, 1], [37, 63, 0, 1], [38, 64, 1, 1], [38, 62, 3, 1], [39, 63, 4, 1], [39, 63, 0, 1], [40, 65, 0, 1]]
+cluster 5 has 8 points, and the cluster is : [[36, 60, 1, 1], [37, 60, 0, 1], [38, 60, 0, 1], [38, 60, 0, 1], [37, 59, 6, 1], [38, 59, 2, 1], [38, 60, 1, 1], [39, 59, 2, 1]]
+cluster 6 has 8 points, and the cluster is : [[36, 69, 0, 1], [38, 66, 0, 1], [39, 66, 0, 2], [39, 67, 0, 1], [41, 64, 0, 2], [41, 64, 0, 1], [41, 67, 0, 2], [41, 65, 0, 1]]
+cluster 7 has 8 points, and the cluster is : [[37, 58, 0, 1], [39, 58, 0, 1], [40, 58, 2, 1], [40, 58, 0, 1], [41, 58, 0, 1], [41, 59, 0, 1], [42, 59, 0, 2], [42, 58, 0, 1]]
+cluster 8 has 8 points, and the cluster is : [[38, 69, 21, 2], [44, 67, 16, 1], [43, 63, 14, 1], [45, 59, 14, 1], [41, 59, 8, 1], [44, 58, 9, 2], [48, 58, 11, 2], [48, 58, 11, 2]]
+cluster 9 has 8 points, and the cluster is : [[38, 67, 5, 1], [41, 69, 8, 1], [43, 66, 4, 1], [44, 64, 6, 2], [45, 65, 6, 2], [47, 63, 6, 1], [46, 62, 5, 2], [47, 60, 4, 1]]
+cluster 10 has 8 points, and the cluster is : [[41, 65, 0, 1], [42, 65, 0, 1], [43, 65, 0, 1], [45, 66, 0, 2], [42, 69, 1, 2], [45, 68, 0, 1], [45, 67, 0, 1], [47, 67, 0, 1]]
+cluster 11 has 8 points, and the cluster is : [[42, 60, 1, 1], [42, 59, 2, 1], [42, 61, 4, 1], [43, 59, 2, 2], [43, 60, 0, 1], [44, 61, 0, 1], [44, 61, 0, 1], [45, 60, 0, 1]]
+cluster 12 has 8 points, and the cluster is : [[42, 63, 1, 1], [43, 63, 2, 1], [43, 64, 2, 1], [43, 64, 3, 1], [43, 64, 0, 2], [43, 64, 0, 2], [44, 63, 1, 1], [45, 64, 0, 1]]
+cluster 13 has 8 points, and the cluster is : [[43, 58, 52, 2], [54, 67, 46, 1], [59, 62, 35, 2], [63, 61, 28, 1], [60, 61, 25, 1], [65, 62, 22, 2], [70, 66, 14, 1], [74, 65, 3, 2]]
+cluster 14 has 8 points, and the cluster is : [[45, 67, 1, 2], [45, 67, 1, 1], [47, 65, 0, 2], [47, 66, 0, 1], [48, 66, 0, 1], [49, 66, 0, 1], [49, 67, 1, 1], [50, 66, 1, 1]]
+cluster 15 has 8 points, and the cluster is : [[46, 58, 2, 2], [46, 58, 3, 1], [47, 58, 3, 1], [50, 59, 2, 1], [50, 59, 0, 1], [50, 58, 1, 1], [51, 59, 1, 1], [53, 58, 1, 1]]
+cluster 16 has 8 points, and the cluster is : [[46, 69, 3, 2], [47, 68, 4, 1], [48, 67, 7, 2], [50, 65, 4, 1], [52, 66, 4, 2], [54, 65, 5, 2], [55, 63, 6, 2], [57, 61, 5, 2]]
+cluster 17 has 8 points, and the cluster is : [[46, 62, 0, 1], [46, 63, 0, 1], [47, 62, 0, 2], [47, 61, 0, 1], [48, 64, 0, 1], [49, 63, 0, 2], [49, 62, 0, 1], [49, 61, 0, 1]]
+cluster 18 has 8 points, and the cluster is : [[47, 66, 12, 1], [49, 64, 10, 2], [50, 63, 13, 2], [53, 65, 12, 2], [51, 64, 7, 1], [52, 63, 4, 1], [52, 62, 3, 2], [52, 62, 1, 1]]
+cluster 19 has 8 points, and the cluster is : [[48, 61, 8, 1], [50, 61, 6, 1], [52, 60, 4, 1], [52, 60, 5, 1], [51, 59, 3, 2], [52, 59, 2, 2], [53, 58, 4, 2], [53, 59, 3, 2]]
+cluster 20 has 8 points, and the cluster is : [[48, 62, 2, 1], [49, 62, 1, 1], [49, 61, 1, 1], [49, 60, 1, 1], [49, 63, 3, 1], [50, 63, 1, 1], [50, 64, 0, 2], [50, 64, 0, 1]]
+cluster 21 has 8 points, and the cluster is : [[50, 61, 0, 1], [50, 61, 0, 1], [52, 61, 0, 1], [52, 62, 0, 1], [51, 65, 0, 1], [52, 65, 0, 1], [52, 64, 0, 1], [53, 63, 0, 1]]
+cluster 22 has 8 points, and the cluster is : [[51, 59, 13, 2], [54, 60, 11, 2], [53, 60, 9, 2], [54, 59, 7, 1], [54, 60, 3, 1], [54, 58, 1, 1], [55, 58, 1, 1], [55, 58, 1, 1]]
+cluster 23 has 8 points, and the cluster is : [[51, 66, 1, 1], [53, 65, 1, 2], [52, 68, 0, 1], [54, 66, 0, 1], [52, 69, 3, 2], [52, 69, 0, 1], [55, 69, 3, 1], [56, 66, 3, 2]]
+cluster 24 has 8 points, and the cluster is : [[53, 60, 1, 1], [53, 60, 2, 1], [53, 61, 1, 1], [54, 62, 0, 1], [54, 62, 0, 1], [56, 60, 0, 1], [55, 58, 0, 1], [56, 60, 0, 1]]
+cluster 25 has 8 points, and the cluster is : [[54, 68, 7, 2], [54, 69, 7, 1], [56, 65, 9, 2], [57, 64, 9, 1], [59, 64, 4, 1], [59, 64, 7, 1], [61, 65, 8, 1], [63, 61, 9, 1]]
+cluster 26 has 8 points, and the cluster is : [[54, 63, 19, 1], [55, 66, 18, 1], [55, 68, 15, 2], [57, 62, 14, 2], [55, 69, 22, 1], [62, 65, 19, 2], [64, 65, 22, 1], [65, 66, 15, 2]]
+cluster 27 has 8 points, and the cluster is : [[55, 66, 0, 1], [55, 67, 1, 1], [56, 66, 2, 1], [56, 66, 1, 1], [56, 67, 0, 1], [57, 67, 0, 1], [57, 69, 0, 1], [58, 67, 0, 1]]
+cluster 28 has 8 points, and the cluster is : [[57, 64, 1, 2], [57, 64, 0, 1], [57, 63, 0, 1], [57, 64, 0, 1], [57, 61, 0, 1], [57, 62, 0, 1], [58, 61, 1, 1], [59, 60, 0, 1]]
+cluster 29 has 8 points, and the cluster is : [[58, 59, 0, 1], [58, 58, 0, 1], [58, 60, 3, 1], [58, 61, 2, 1], [58, 58, 3, 1], [60, 61, 1, 1], [59, 63, 0, 1], [59, 64, 0, 1]]
+cluster 30 has 8 points, and the cluster is : [[59, 64, 1, 1], [60, 64, 0, 1], [60, 65, 0, 2], [61, 65, 0, 2], [61, 64, 0, 1], [62, 66, 0, 1], [62, 66, 0, 1], [63, 66, 0, 1]]
+cluster 31 has 8 points, and the cluster is : [[59, 67, 3, 1], [60, 67, 2, 1], [61, 68, 1, 2], [61, 68, 0, 1], [64, 66, 0, 1], [65, 67, 0, 1], [64, 68, 0, 1], [65, 67, 1, 1]]
+cluster 32 has 8 points, and the cluster is : [[60, 59, 17, 2], [62, 59, 13, 2], [66, 61, 13, 2], [67, 64, 8, 2], [69, 67, 8, 2], [72, 67, 3, 1], [70, 68, 0, 1], [71, 68, 2, 1]]
+cluster 33 has 8 points, and the cluster is : [[61, 62, 5, 2], [62, 62, 6, 1], [63, 60, 1, 2], [63, 61, 0, 1], [63, 62, 0, 1], [63, 63, 0, 1], [63, 63, 0, 1], [64, 61, 0, 1]]
+cluster 34 has 8 points, and the cluster is : [[61, 59, 0, 1], [61, 59, 0, 1], [61, 59, 0, 1], [62, 58, 0, 2], [62, 58, 0, 1], [64, 58, 0, 1], [65, 58, 0, 2], [65, 58, 0, 1]]
+cluster 35 has 8 points, and the cluster is : [[65, 61, 2, 2], [65, 59, 2, 1], [66, 58, 1, 1], [67, 61, 0, 1], [66, 58, 0, 2], [66, 58, 0, 1], [69, 60, 0, 1], [70, 58, 0, 2]]
+cluster 36 has 8 points, and the cluster is : [[65, 64, 0, 1], [65, 64, 0, 1], [67, 63, 1, 2], [67, 65, 0, 1], [67, 66, 0, 1], [67, 66, 0, 1], [69, 65, 0, 1], [70, 67, 0, 1]]
+cluster 37 has 8 points, and the cluster is : [[66, 68, 0, 1], [68, 68, 0, 1], [68, 67, 0, 1], [69, 66, 0, 1], [70, 63, 0, 1], [72, 63, 0, 2], [72, 64, 0, 1], [74, 63, 0, 1]]
+cluster 38 has 6 points, and the cluster is : [[70, 58, 4, 2], [70, 59, 8, 1], [72, 58, 0, 1], [73, 62, 0, 1], [75, 62, 1, 1], [77, 65, 3, 1]]
+cluster 39 has 4 points, and the cluster is : [[73, 68, 0, 1], [76, 67, 0, 1], [78, 65, 1, 2], [83, 58, 2, 2]]
+____________________________________________________________________________________________________
+how many clusters :  20
+cluster 1 with 15 alives and 1 deads the entropy is 0.3372900666170139
+cluster 2 with 12 alives and 4 deads the entropy is 0.8112781244591328
+cluster 3 with 6 alives and 10 deads the entropy is 0.954434002924965
+cluster 4 with 13 alives and 3 deads the entropy is 0.6962122601251458
+cluster 5 with 14 alives and 2 deads the entropy is 0.5435644431995964
+cluster 6 with 9 alives and 7 deads the entropy is 0.9886994082884974
+cluster 7 with 12 alives and 4 deads the entropy is 0.8112781244591328
+cluster 8 with 7 alives and 9 deads the entropy is 0.9886994082884974
+cluster 9 with 11 alives and 5 deads the entropy is 0.8960382325345574
+cluster 10 with 11 alives and 5 deads the entropy is 0.8960382325345574
+cluster 11 with 9 alives and 7 deads the entropy is 0.9886994082884974
+cluster 12 with 14 alives and 2 deads the entropy is 0.5435644431995964
+cluster 13 with 12 alives and 4 deads the entropy is 0.8112781244591328
+cluster 14 with 12 alives and 4 deads the entropy is 0.8112781244591328
+cluster 15 with 15 alives and 1 deads the entropy is 0.3372900666170139
+cluster 16 with 14 alives and 2 deads the entropy is 0.5435644431995964
+cluster 17 with 14 alives and 2 deads the entropy is 0.5435644431995964
+cluster 18 with 11 alives and 5 deads the entropy is 0.8960382325345574
+cluster 19 with 9 alives and 3 deads the entropy is 0.8112781244591328
+cluster 20 with 5 alives and 1 deads the entropy is 0.6500224216483541
+******************************
+cluster 1 has 16 points, and the cluster is : [[30, 64, 1, 1], [30, 65, 0, 1], [30, 62, 3, 1], [31, 59, 2, 1], [33, 60, 0, 1], [34, 60, 0, 1], [34, 59, 0, 2], [34, 60, 1, 1], [36, 60, 1, 1], [37, 60, 0, 1], [38, 60, 0, 1], [38, 60, 0, 1], [37, 59, 6, 1], [38, 59, 2, 1], [38, 60, 1, 1], [39, 59, 2, 1]]
+cluster 2 has 16 points, and the cluster is : [[31, 65, 4, 1], [34, 67, 7, 1], [34, 66, 9, 2], [38, 66, 11, 1], [33, 58, 10, 1], [34, 61, 10, 1], [35, 64, 13, 1], [37, 60, 15, 1], [38, 67, 5, 1], [41, 69, 8, 1], [43, 66, 4, 1], [44, 64, 6, 2], [45, 65, 6, 2], [47, 63, 6, 1], [46, 62, 5, 2], [47, 60, 4, 1]]
+cluster 3 has 16 points, and the cluster is : [[34, 58, 30, 1], [41, 60, 23, 2], [42, 62, 20, 1], [44, 63, 19, 2], [46, 65, 20, 2], [47, 63, 23, 2], [53, 63, 24, 2], [54, 65, 23, 2], [54, 63, 19, 1], [55, 66, 18, 1], [55, 68, 15, 2], [57, 62, 14, 2], [55, 69, 22, 1], [62, 65, 19, 2], [64, 65, 22, 1], [65, 66, 15, 2]]
+cluster 4 has 16 points, and the cluster is : [[35, 63, 0, 1], [37, 63, 0, 1], [37, 63, 0, 1], [38, 64, 1, 1], [38, 62, 3, 1], [39, 63, 4, 1], [39, 63, 0, 1], [40, 65, 0, 1], [36, 69, 0, 1], [38, 66, 0, 1], [39, 66, 0, 2], [39, 67, 0, 1], [41, 64, 0, 2], [41, 64, 0, 1], [41, 67, 0, 2], [41, 65, 0, 1]]
+cluster 5 has 16 points, and the cluster is : [[37, 58, 0, 1], [39, 58, 0, 1], [40, 58, 2, 1], [40, 58, 0, 1], [41, 58, 0, 1], [41, 59, 0, 1], [42, 59, 0, 2], [42, 58, 0, 1], [42, 60, 1, 1], [42, 59, 2, 1], [42, 61, 4, 1], [43, 59, 2, 2], [43, 60, 0, 1], [44, 61, 0, 1], [44, 61, 0, 1], [45, 60, 0, 1]]
+cluster 6 has 16 points, and the cluster is : [[38, 69, 21, 2], [44, 67, 16, 1], [43, 63, 14, 1], [45, 59, 14, 1], [41, 59, 8, 1], [44, 58, 9, 2], [48, 58, 11, 2], [48, 58, 11, 2], [51, 59, 13, 2], [54, 60, 11, 2], [53, 60, 9, 2], [54, 59, 7, 1], [54, 60, 3, 1], [54, 58, 1, 1], [55, 58, 1, 1], [55, 58, 1, 1]]
+cluster 7 has 16 points, and the cluster is : [[41, 65, 0, 1], [42, 65, 0, 1], [43, 65, 0, 1], [45, 66, 0, 2], [42, 69, 1, 2], [45, 68, 0, 1], [45, 67, 0, 1], [47, 67, 0, 1], [42, 63, 1, 1], [43, 63, 2, 1], [43, 64, 2, 1], [43, 64, 3, 1], [43, 64, 0, 2], [43, 64, 0, 2], [44, 63, 1, 1], [45, 64, 0, 1]]
+cluster 8 has 16 points, and the cluster is : [[43, 58, 52, 2], [54, 67, 46, 1], [59, 62, 35, 2], [63, 61, 28, 1], [60, 61, 25, 1], [65, 62, 22, 2], [70, 66, 14, 1], [74, 65, 3, 2], [60, 59, 17, 2], [62, 59, 13, 2], [66, 61, 13, 2], [67, 64, 8, 2], [69, 67, 8, 2], [72, 67, 3, 1], [70, 68, 0, 1], [71, 68, 2, 1]]
+cluster 9 has 16 points, and the cluster is : [[45, 67, 1, 2], [45, 67, 1, 1], [47, 65, 0, 2], [47, 66, 0, 1], [48, 66, 0, 1], [49, 66, 0, 1], [49, 67, 1, 1], [50, 66, 1, 1], [51, 66, 1, 1], [53, 65, 1, 2], [52, 68, 0, 1], [54, 66, 0, 1], [52, 69, 3, 2], [52, 69, 0, 1], [55, 69, 3, 1], [56, 66, 3, 2]]
+cluster 10 has 16 points, and the cluster is : [[46, 58, 2, 2], [46, 58, 3, 1], [47, 58, 3, 1], [50, 59, 2, 1], [50, 59, 0, 1], [50, 58, 1, 1], [51, 59, 1, 1], [53, 58, 1, 1], [48, 61, 8, 1], [50, 61, 6, 1], [52, 60, 4, 1], [52, 60, 5, 1], [51, 59, 3, 2], [52, 59, 2, 2], [53, 58, 4, 2], [53, 59, 3, 2]]
+cluster 11 has 16 points, and the cluster is : [[46, 69, 3, 2], [47, 68, 4, 1], [48, 67, 7, 2], [50, 65, 4, 1], [52, 66, 4, 2], [54, 65, 5, 2], [55, 63, 6, 2], [57, 61, 5, 2], [48, 62, 2, 1], [49, 62, 1, 1], [49, 61, 1, 1], [49, 60, 1, 1], [49, 63, 3, 1], [50, 63, 1, 1], [50, 64, 0, 2], [50, 64, 0, 1]]
+cluster 12 has 16 points, and the cluster is : [[46, 62, 0, 1], [46, 63, 0, 1], [47, 62, 0, 2], [47, 61, 0, 1], [48, 64, 0, 1], [49, 63, 0, 2], [49, 62, 0, 1], [49, 61, 0, 1], [50, 61, 0, 1], [50, 61, 0, 1], [52, 61, 0, 1], [52, 62, 0, 1], [51, 65, 0, 1], [52, 65, 0, 1], [52, 64, 0, 1], [53, 63, 0, 1]]
+cluster 13 has 16 points, and the cluster is : [[47, 66, 12, 1], [49, 64, 10, 2], [50, 63, 13, 2], [53, 65, 12, 2], [51, 64, 7, 1], [52, 63, 4, 1], [52, 62, 3, 2], [52, 62, 1, 1], [53, 60, 1, 1], [53, 60, 2, 1], [53, 61, 1, 1], [54, 62, 0, 1], [54, 62, 0, 1], [56, 60, 0, 1], [55, 58, 0, 1], [56, 60, 0, 1]]
+cluster 14 has 16 points, and the cluster is : [[54, 68, 7, 2], [54, 69, 7, 1], [56, 65, 9, 2], [57, 64, 9, 1], [59, 64, 4, 1], [59, 64, 7, 1], [61, 65, 8, 1], [63, 61, 9, 1], [59, 64, 1, 1], [60, 64, 0, 1], [60, 65, 0, 2], [61, 65, 0, 2], [61, 64, 0, 1], [62, 66, 0, 1], [62, 66, 0, 1], [63, 66, 0, 1]]
+cluster 15 has 16 points, and the cluster is : [[55, 66, 0, 1], [55, 67, 1, 1], [56, 66, 2, 1], [56, 66, 1, 1], [56, 67, 0, 1], [57, 67, 0, 1], [57, 69, 0, 1], [58, 67, 0, 1], [57, 64, 1, 2], [57, 64, 0, 1], [57, 63, 0, 1], [57, 64, 0, 1], [57, 61, 0, 1], [57, 62, 0, 1], [58, 61, 1, 1], [59, 60, 0, 1]]
+cluster 16 has 16 points, and the cluster is : [[58, 59, 0, 1], [58, 58, 0, 1], [58, 60, 3, 1], [58, 61, 2, 1], [58, 58, 3, 1], [60, 61, 1, 1], [59, 63, 0, 1], [59, 64, 0, 1], [61, 59, 0, 1], [61, 59, 0, 1], [61, 59, 0, 1], [62, 58, 0, 2], [62, 58, 0, 1], [64, 58, 0, 1], [65, 58, 0, 2], [65, 58, 0, 1]]
+cluster 17 has 16 points, and the cluster is : [[59, 67, 3, 1], [60, 67, 2, 1], [61, 68, 1, 2], [61, 68, 0, 1], [64, 66, 0, 1], [65, 67, 0, 1], [64, 68, 0, 1], [65, 67, 1, 1], [66, 68, 0, 1], [68, 68, 0, 1], [68, 67, 0, 1], [69, 66, 0, 1], [70, 63, 0, 1], [72, 63, 0, 2], [72, 64, 0, 1], [74, 63, 0, 1]]
+cluster 18 has 16 points, and the cluster is : [[61, 62, 5, 2], [62, 62, 6, 1], [63, 60, 1, 2], [63, 61, 0, 1], [63, 62, 0, 1], [63, 63, 0, 1], [63, 63, 0, 1], [64, 61, 0, 1], [65, 61, 2, 2], [65, 59, 2, 1], [66, 58, 1, 1], [67, 61, 0, 1], [66, 58, 0, 2], [66, 58, 0, 1], [69, 60, 0, 1], [70, 58, 0, 2]]
+cluster 19 has 12 points, and the cluster is : [[65, 64, 0, 1], [65, 64, 0, 1], [67, 63, 1, 2], [67, 65, 0, 1], [67, 66, 0, 1], [67, 66, 0, 1], [69, 65, 0, 1], [70, 67, 0, 1], [73, 68, 0, 1], [76, 67, 0, 1], [78, 65, 1, 2], [83, 58, 2, 2]]
+cluster 20 has 6 points, and the cluster is : [[70, 58, 4, 2], [70, 59, 8, 1], [72, 58, 0, 1], [73, 62, 0, 1], [75, 62, 1, 1], [77, 65, 3, 1]]
+____________________________________________________________________________________________________
+how many clusters :  10
+cluster 1 with 29 alives and 3 deads the entropy is 0.4488644887230294
+cluster 2 with 24 alives and 8 deads the entropy is 0.8112781244591328
+cluster 3 with 13 alives and 19 deads the entropy is 0.9744894033980523
+cluster 4 with 24 alives and 8 deads the entropy is 0.8112781244591328
+cluster 5 with 20 alives and 12 deads the entropy is 0.954434002924965
+cluster 6 with 23 alives and 9 deads the entropy is 0.8571484374283715
+cluster 7 with 27 alives and 5 deads the entropy is 0.6252624052234231
+cluster 8 with 26 alives and 6 deads the entropy is 0.6962122601251458
+cluster 9 with 23 alives and 5 deads the entropy is 0.676941869780886
+cluster 10 with 16 alives and 6 deads the entropy is 0.8453509366224364
+******************************
+cluster 1 has 32 points, and the cluster is : [[30, 64, 1, 1], [30, 65, 0, 1], [30, 62, 3, 1], [31, 59, 2, 1], [33, 60, 0, 1], [34, 60, 0, 1], [34, 59, 0, 2], [34, 60, 1, 1], [36, 60, 1, 1], [37, 60, 0, 1], [38, 60, 0, 1], [38, 60, 0, 1], [37, 59, 6, 1], [38, 59, 2, 1], [38, 60, 1, 1], [39, 59, 2, 1], [37, 58, 0, 1], [39, 58, 0, 1], [40, 58, 2, 1], [40, 58, 0, 1], [41, 58, 0, 1], [41, 59, 0, 1], [42, 59, 0, 2], [42, 58, 0, 1], [42, 60, 1, 1], [42, 59, 2, 1], [42, 61, 4, 1], [43, 59, 2, 2], [43, 60, 0, 1], [44, 61, 0, 1], [44, 61, 0, 1], [45, 60, 0, 1]]
+cluster 2 has 32 points, and the cluster is : [[31, 65, 4, 1], [34, 67, 7, 1], [34, 66, 9, 2], [38, 66, 11, 1], [33, 58, 10, 1], [34, 61, 10, 1], [35, 64, 13, 1], [37, 60, 15, 1], [38, 67, 5, 1], [41, 69, 8, 1], [43, 66, 4, 1], [44, 64, 6, 2], [45, 65, 6, 2], [47, 63, 6, 1], [46, 62, 5, 2], [47, 60, 4, 1], [41, 65, 0, 1], [42, 65, 0, 1], [43, 65, 0, 1], [45, 66, 0, 2], [42, 69, 1, 2], [45, 68, 0, 1], [45, 67, 0, 1], [47, 67, 0, 1], [42, 63, 1, 1], [43, 63, 2, 1], [43, 64, 2, 1], [43, 64, 3, 1], [43, 64, 0, 2], [43, 64, 0, 2], [44, 63, 1, 1], [45, 64, 0, 1]]
+cluster 3 has 32 points, and the cluster is : [[34, 58, 30, 1], [41, 60, 23, 2], [42, 62, 20, 1], [44, 63, 19, 2], [46, 65, 20, 2], [47, 63, 23, 2], [53, 63, 24, 2], [54, 65, 23, 2], [54, 63, 19, 1], [55, 66, 18, 1], [55, 68, 15, 2], [57, 62, 14, 2], [55, 69, 22, 1], [62, 65, 19, 2], [64, 65, 22, 1], [65, 66, 15, 2], [43, 58, 52, 2], [54, 67, 46, 1], [59, 62, 35, 2], [63, 61, 28, 1], [60, 61, 25, 1], [65, 62, 22, 2], [70, 66, 14, 1], [74, 65, 3, 2], [60, 59, 17, 2], [62, 59, 13, 2], [66, 61, 13, 2], [67, 64, 8, 2], [69, 67, 8, 2], [72, 67, 3, 1], [70, 68, 0, 1], [71, 68, 2, 1]]
+cluster 4 has 32 points, and the cluster is : [[35, 63, 0, 1], [37, 63, 0, 1], [37, 63, 0, 1], [38, 64, 1, 1], [38, 62, 3, 1], [39, 63, 4, 1], [39, 63, 0, 1], [40, 65, 0, 1], [36, 69, 0, 1], [38, 66, 0, 1], [39, 66, 0, 2], [39, 67, 0, 1], [41, 64, 0, 2], [41, 64, 0, 1], [41, 67, 0, 2], [41, 65, 0, 1], [45, 67, 1, 2], [45, 67, 1, 1], [47, 65, 0, 2], [47, 66, 0, 1], [48, 66, 0, 1], [49, 66, 0, 1], [49, 67, 1, 1], [50, 66, 1, 1], [51, 66, 1, 1], [53, 65, 1, 2], [52, 68, 0, 1], [54, 66, 0, 1], [52, 69, 3, 2], [52, 69, 0, 1], [55, 69, 3, 1], [56, 66, 3, 2]]
+cluster 5 has 32 points, and the cluster is : [[38, 69, 21, 2], [44, 67, 16, 1], [43, 63, 14, 1], [45, 59, 14, 1], [41, 59, 8, 1], [44, 58, 9, 2], [48, 58, 11, 2], [48, 58, 11, 2], [51, 59, 13, 2], [54, 60, 11, 2], [53, 60, 9, 2], [54, 59, 7, 1], [54, 60, 3, 1], [54, 58, 1, 1], [55, 58, 1, 1], [55, 58, 1, 1], [46, 58, 2, 2], [46, 58, 3, 1], [47, 58, 3, 1], [50, 59, 2, 1], [50, 59, 0, 1], [50, 58, 1, 1], [51, 59, 1, 1], [53, 58, 1, 1], [48, 61, 8, 1], [50, 61, 6, 1], [52, 60, 4, 1], [52, 60, 5, 1], [51, 59, 3, 2], [52, 59, 2, 2], [53, 58, 4, 2], [53, 59, 3, 2]]
+cluster 6 has 32 points, and the cluster is : [[46, 69, 3, 2], [47, 68, 4, 1], [48, 67, 7, 2], [50, 65, 4, 1], [52, 66, 4, 2], [54, 65, 5, 2], [55, 63, 6, 2], [57, 61, 5, 2], [48, 62, 2, 1], [49, 62, 1, 1], [49, 61, 1, 1], [49, 60, 1, 1], [49, 63, 3, 1], [50, 63, 1, 1], [50, 64, 0, 2], [50, 64, 0, 1], [46, 62, 0, 1], [46, 63, 0, 1], [47, 62, 0, 2], [47, 61, 0, 1], [48, 64, 0, 1], [49, 63, 0, 2], [49, 62, 0, 1], [49, 61, 0, 1], [50, 61, 0, 1], [50, 61, 0, 1], [52, 61, 0, 1], [52, 62, 0, 1], [51, 65, 0, 1], [52, 65, 0, 1], [52, 64, 0, 1], [53, 63, 0, 1]]
+cluster 7 has 32 points, and the cluster is : [[47, 66, 12, 1], [49, 64, 10, 2], [50, 63, 13, 2], [53, 65, 12, 2], [51, 64, 7, 1], [52, 63, 4, 1], [52, 62, 3, 2], [52, 62, 1, 1], [53, 60, 1, 1], [53, 60, 2, 1], [53, 61, 1, 1], [54, 62, 0, 1], [54, 62, 0, 1], [56, 60, 0, 1], [55, 58, 0, 1], [56, 60, 0, 1], [55, 66, 0, 1], [55, 67, 1, 1], [56, 66, 2, 1], [56, 66, 1, 1], [56, 67, 0, 1], [57, 67, 0, 1], [57, 69, 0, 1], [58, 67, 0, 1], [57, 64, 1, 2], [57, 64, 0, 1], [57, 63, 0, 1], [57, 64, 0, 1], [57, 61, 0, 1], [57, 62, 0, 1], [58, 61, 1, 1], [59, 60, 0, 1]]
+cluster 8 has 32 points, and the cluster is : [[54, 68, 7, 2], [54, 69, 7, 1], [56, 65, 9, 2], [57, 64, 9, 1], [59, 64, 4, 1], [59, 64, 7, 1], [61, 65, 8, 1], [63, 61, 9, 1], [59, 64, 1, 1], [60, 64, 0, 1], [60, 65, 0, 2], [61, 65, 0, 2], [61, 64, 0, 1], [62, 66, 0, 1], [62, 66, 0, 1], [63, 66, 0, 1], [58, 59, 0, 1], [58, 58, 0, 1], [58, 60, 3, 1], [58, 61, 2, 1], [58, 58, 3, 1], [60, 61, 1, 1], [59, 63, 0, 1], [59, 64, 0, 1], [61, 59, 0, 1], [61, 59, 0, 1], [61, 59, 0, 1], [62, 58, 0, 2], [62, 58, 0, 1], [64, 58, 0, 1], [65, 58, 0, 2], [65, 58, 0, 1]]
+cluster 9 has 28 points, and the cluster is : [[59, 67, 3, 1], [60, 67, 2, 1], [61, 68, 1, 2], [61, 68, 0, 1], [64, 66, 0, 1], [65, 67, 0, 1], [64, 68, 0, 1], [65, 67, 1, 1], [66, 68, 0, 1], [68, 68, 0, 1], [68, 67, 0, 1], [69, 66, 0, 1], [70, 63, 0, 1], [72, 63, 0, 2], [72, 64, 0, 1], [74, 63, 0, 1], [65, 64, 0, 1], [65, 64, 0, 1], [67, 63, 1, 2], [67, 65, 0, 1], [67, 66, 0, 1], [67, 66, 0, 1], [69, 65, 0, 1], [70, 67, 0, 1], [73, 68, 0, 1], [76, 67, 0, 1], [78, 65, 1, 2], [83, 58, 2, 2]]
+cluster 10 has 22 points, and the cluster is : [[61, 62, 5, 2], [62, 62, 6, 1], [63, 60, 1, 2], [63, 61, 0, 1], [63, 62, 0, 1], [63, 63, 0, 1], [63, 63, 0, 1], [64, 61, 0, 1], [65, 61, 2, 2], [65, 59, 2, 1], [66, 58, 1, 1], [67, 61, 0, 1], [66, 58, 0, 2], [66, 58, 0, 1], [69, 60, 0, 1], [70, 58, 0, 2], [70, 58, 4, 2], [70, 59, 8, 1], [72, 58, 0, 1], [73, 62, 0, 1], [75, 62, 1, 1], [77, 65, 3, 1]]
+____________________________________________________________________________________________________
+how many clusters :  5
+cluster 1 with 53 alives and 11 deads the entropy is 0.6619760641115652
+cluster 2 with 36 alives and 24 deads the entropy is 0.9709505944546686
+cluster 3 with 51 alives and 13 deads the entropy is 0.7281342378690551
+cluster 4 with 43 alives and 21 deads the entropy is 0.9129992135852473
+cluster 5 with 42 alives and 12 deads the entropy is 0.7642045065086203
+******************************
+cluster 1 has 64 points, and the cluster is : [[30, 64, 1, 1], [30, 65, 0, 1], [30, 62, 3, 1], [31, 59, 2, 1], [33, 60, 0, 1], [34, 60, 0, 1], [34, 59, 0, 2], [34, 60, 1, 1], [36, 60, 1, 1], [37, 60, 0, 1], [38, 60, 0, 1], [38, 60, 0, 1], [37, 59, 6, 1], [38, 59, 2, 1], [38, 60, 1, 1], [39, 59, 2, 1], [37, 58, 0, 1], [39, 58, 0, 1], [40, 58, 2, 1], [40, 58, 0, 1], [41, 58, 0, 1], [41, 59, 0, 1], [42, 59, 0, 2], [42, 58, 0, 1], [42, 60, 1, 1], [42, 59, 2, 1], [42, 61, 4, 1], [43, 59, 2, 2], [43, 60, 0, 1], [44, 61, 0, 1], [44, 61, 0, 1], [45, 60, 0, 1], [31, 65, 4, 1], [34, 67, 7, 1], [34, 66, 9, 2], [38, 66, 11, 1], [33, 58, 10, 1], [34, 61, 10, 1], [35, 64, 13, 1], [37, 60, 15, 1], [38, 67, 5, 1], [41, 69, 8, 1], [43, 66, 4, 1], [44, 64, 6, 2], [45, 65, 6, 2], [47, 63, 6, 1], [46, 62, 5, 2], [47, 60, 4, 1], [41, 65, 0, 1], [42, 65, 0, 1], [43, 65, 0, 1], [45, 66, 0, 2], [42, 69, 1, 2], [45, 68, 0, 1], [45, 67, 0, 1], [47, 67, 0, 1], [42, 63, 1, 1], [43, 63, 2, 1], [43, 64, 2, 1], [43, 64, 3, 1], [43, 64, 0, 2], [43, 64, 0, 2], [44, 63, 1, 1], [45, 64, 0, 1]]
+cluster 2 has 60 points, and the cluster is : [[34, 58, 30, 1], [41, 60, 23, 2], [42, 62, 20, 1], [44, 63, 19, 2], [46, 65, 20, 2], [47, 63, 23, 2], [53, 63, 24, 2], [54, 65, 23, 2], [54, 63, 19, 1], [55, 66, 18, 1], [55, 68, 15, 2], [57, 62, 14, 2], [55, 69, 22, 1], [62, 65, 19, 2], [64, 65, 22, 1], [65, 66, 15, 2], [43, 58, 52, 2], [54, 67, 46, 1], [59, 62, 35, 2], [63, 61, 28, 1], [60, 61, 25, 1], [65, 62, 22, 2], [70, 66, 14, 1], [74, 65, 3, 2], [60, 59, 17, 2], [62, 59, 13, 2], [66, 61, 13, 2], [67, 64, 8, 2], [69, 67, 8, 2], [72, 67, 3, 1], [70, 68, 0, 1], [71, 68, 2, 1], [59, 67, 3, 1], [60, 67, 2, 1], [61, 68, 1, 2], [61, 68, 0, 1], [64, 66, 0, 1], [65, 67, 0, 1], [64, 68, 0, 1], [65, 67, 1, 1], [66, 68, 0, 1], [68, 68, 0, 1], [68, 67, 0, 1], [69, 66, 0, 1], [70, 63, 0, 1], [72, 63, 0, 2], [72, 64, 0, 1], [74, 63, 0, 1], [65, 64, 0, 1], [65, 64, 0, 1], [67, 63, 1, 2], [67, 65, 0, 1], [67, 66, 0, 1], [67, 66, 0, 1], [69, 65, 0, 1], [70, 67, 0, 1], [73, 68, 0, 1], [76, 67, 0, 1], [78, 65, 1, 2], [83, 58, 2, 2]]
+cluster 3 has 64 points, and the cluster is : [[35, 63, 0, 1], [37, 63, 0, 1], [37, 63, 0, 1], [38, 64, 1, 1], [38, 62, 3, 1], [39, 63, 4, 1], [39, 63, 0, 1], [40, 65, 0, 1], [36, 69, 0, 1], [38, 66, 0, 1], [39, 66, 0, 2], [39, 67, 0, 1], [41, 64, 0, 2], [41, 64, 0, 1], [41, 67, 0, 2], [41, 65, 0, 1], [45, 67, 1, 2], [45, 67, 1, 1], [47, 65, 0, 2], [47, 66, 0, 1], [48, 66, 0, 1], [49, 66, 0, 1], [49, 67, 1, 1], [50, 66, 1, 1], [51, 66, 1, 1], [53, 65, 1, 2], [52, 68, 0, 1], [54, 66, 0, 1], [52, 69, 3, 2], [52, 69, 0, 1], [55, 69, 3, 1], [56, 66, 3, 2], [47, 66, 12, 1], [49, 64, 10, 2], [50, 63, 13, 2], [53, 65, 12, 2], [51, 64, 7, 1], [52, 63, 4, 1], [52, 62, 3, 2], [52, 62, 1, 1], [53, 60, 1, 1], [53, 60, 2, 1], [53, 61, 1, 1], [54, 62, 0, 1], [54, 62, 0, 1], [56, 60, 0, 1], [55, 58, 0, 1], [56, 60, 0, 1], [55, 66, 0, 1], [55, 67, 1, 1], [56, 66, 2, 1], [56, 66, 1, 1], [56, 67, 0, 1], [57, 67, 0, 1], [57, 69, 0, 1], [58, 67, 0, 1], [57, 64, 1, 2], [57, 64, 0, 1], [57, 63, 0, 1], [57, 64, 0, 1], [57, 61, 0, 1], [57, 62, 0, 1], [58, 61, 1, 1], [59, 60, 0, 1]]
+cluster 4 has 64 points, and the cluster is : [[38, 69, 21, 2], [44, 67, 16, 1], [43, 63, 14, 1], [45, 59, 14, 1], [41, 59, 8, 1], [44, 58, 9, 2], [48, 58, 11, 2], [48, 58, 11, 2], [51, 59, 13, 2], [54, 60, 11, 2], [53, 60, 9, 2], [54, 59, 7, 1], [54, 60, 3, 1], [54, 58, 1, 1], [55, 58, 1, 1], [55, 58, 1, 1], [46, 58, 2, 2], [46, 58, 3, 1], [47, 58, 3, 1], [50, 59, 2, 1], [50, 59, 0, 1], [50, 58, 1, 1], [51, 59, 1, 1], [53, 58, 1, 1], [48, 61, 8, 1], [50, 61, 6, 1], [52, 60, 4, 1], [52, 60, 5, 1], [51, 59, 3, 2], [52, 59, 2, 2], [53, 58, 4, 2], [53, 59, 3, 2], [46, 69, 3, 2], [47, 68, 4, 1], [48, 67, 7, 2], [50, 65, 4, 1], [52, 66, 4, 2], [54, 65, 5, 2], [55, 63, 6, 2], [57, 61, 5, 2], [48, 62, 2, 1], [49, 62, 1, 1], [49, 61, 1, 1], [49, 60, 1, 1], [49, 63, 3, 1], [50, 63, 1, 1], [50, 64, 0, 2], [50, 64, 0, 1], [46, 62, 0, 1], [46, 63, 0, 1], [47, 62, 0, 2], [47, 61, 0, 1], [48, 64, 0, 1], [49, 63, 0, 2], [49, 62, 0, 1], [49, 61, 0, 1], [50, 61, 0, 1], [50, 61, 0, 1], [52, 61, 0, 1], [52, 62, 0, 1], [51, 65, 0, 1], [52, 65, 0, 1], [52, 64, 0, 1], [53, 63, 0, 1]]
+cluster 5 has 54 points, and the cluster is : [[54, 68, 7, 2], [54, 69, 7, 1], [56, 65, 9, 2], [57, 64, 9, 1], [59, 64, 4, 1], [59, 64, 7, 1], [61, 65, 8, 1], [63, 61, 9, 1], [59, 64, 1, 1], [60, 64, 0, 1], [60, 65, 0, 2], [61, 65, 0, 2], [61, 64, 0, 1], [62, 66, 0, 1], [62, 66, 0, 1], [63, 66, 0, 1], [58, 59, 0, 1], [58, 58, 0, 1], [58, 60, 3, 1], [58, 61, 2, 1], [58, 58, 3, 1], [60, 61, 1, 1], [59, 63, 0, 1], [59, 64, 0, 1], [61, 59, 0, 1], [61, 59, 0, 1], [61, 59, 0, 1], [62, 58, 0, 2], [62, 58, 0, 1], [64, 58, 0, 1], [65, 58, 0, 2], [65, 58, 0, 1], [61, 62, 5, 2], [62, 62, 6, 1], [63, 60, 1, 2], [63, 61, 0, 1], [63, 62, 0, 1], [63, 63, 0, 1], [63, 63, 0, 1], [64, 61, 0, 1], [65, 61, 2, 2], [65, 59, 2, 1], [66, 58, 1, 1], [67, 61, 0, 1], [66, 58, 0, 2], [66, 58, 0, 1], [69, 60, 0, 1], [70, 58, 0, 2], [70, 58, 4, 2], [70, 59, 8, 1], [72, 58, 0, 1], [73, 62, 0, 1], [75, 62, 1, 1], [77, 65, 3, 1]]
+____________________________________________________________________________________________________
+how many clusters :  3
+cluster 1 with 104 alives and 24 deads the entropy is 0.6962122601251458
+cluster 2 with 78 alives and 36 deads the entropy is 0.8997437586982626
+cluster 3 with 43 alives and 21 deads the entropy is 0.9129992135852473
+******************************
+cluster 1 has 128 points, and the cluster is : [[30, 64, 1, 1], [30, 65, 0, 1], [30, 62, 3, 1], [31, 59, 2, 1], [33, 60, 0, 1], [34, 60, 0, 1], [34, 59, 0, 2], [34, 60, 1, 1], [36, 60, 1, 1], [37, 60, 0, 1], [38, 60, 0, 1], [38, 60, 0, 1], [37, 59, 6, 1], [38, 59, 2, 1], [38, 60, 1, 1], [39, 59, 2, 1], [37, 58, 0, 1], [39, 58, 0, 1], [40, 58, 2, 1], [40, 58, 0, 1], [41, 58, 0, 1], [41, 59, 0, 1], [42, 59, 0, 2], [42, 58, 0, 1], [42, 60, 1, 1], [42, 59, 2, 1], [42, 61, 4, 1], [43, 59, 2, 2], [43, 60, 0, 1], [44, 61, 0, 1], [44, 61, 0, 1], [45, 60, 0, 1], [31, 65, 4, 1], [34, 67, 7, 1], [34, 66, 9, 2], [38, 66, 11, 1], [33, 58, 10, 1], [34, 61, 10, 1], [35, 64, 13, 1], [37, 60, 15, 1], [38, 67, 5, 1], [41, 69, 8, 1], [43, 66, 4, 1], [44, 64, 6, 2], [45, 65, 6, 2], [47, 63, 6, 1], [46, 62, 5, 2], [47, 60, 4, 1], [41, 65, 0, 1], [42, 65, 0, 1], [43, 65, 0, 1], [45, 66, 0, 2], [42, 69, 1, 2], [45, 68, 0, 1], [45, 67, 0, 1], [47, 67, 0, 1], [42, 63, 1, 1], [43, 63, 2, 1], [43, 64, 2, 1], [43, 64, 3, 1], [43, 64, 0, 2], [43, 64, 0, 2], [44, 63, 1, 1], [45, 64, 0, 1], [35, 63, 0, 1], [37, 63, 0, 1], [37, 63, 0, 1], [38, 64, 1, 1], [38, 62, 3, 1], [39, 63, 4, 1], [39, 63, 0, 1], [40, 65, 0, 1], [36, 69, 0, 1], [38, 66, 0, 1], [39, 66, 0, 2], [39, 67, 0, 1], [41, 64, 0, 2], [41, 64, 0, 1], [41, 67, 0, 2], [41, 65, 0, 1], [45, 67, 1, 2], [45, 67, 1, 1], [47, 65, 0, 2], [47, 66, 0, 1], [48, 66, 0, 1], [49, 66, 0, 1], [49, 67, 1, 1], [50, 66, 1, 1], [51, 66, 1, 1], [53, 65, 1, 2], [52, 68, 0, 1], [54, 66, 0, 1], [52, 69, 3, 2], [52, 69, 0, 1], [55, 69, 3, 1], [56, 66, 3, 2], [47, 66, 12, 1], [49, 64, 10, 2], [50, 63, 13, 2], [53, 65, 12, 2], [51, 64, 7, 1], [52, 63, 4, 1], [52, 62, 3, 2], [52, 62, 1, 1], [53, 60, 1, 1], [53, 60, 2, 1], [53, 61, 1, 1], [54, 62, 0, 1], [54, 62, 0, 1], [56, 60, 0, 1], [55, 58, 0, 1], [56, 60, 0, 1], [55, 66, 0, 1], [55, 67, 1, 1], [56, 66, 2, 1], [56, 66, 1, 1], [56, 67, 0, 1], [57, 67, 0, 1], [57, 69, 0, 1], [58, 67, 0, 1], [57, 64, 1, 2], [57, 64, 0, 1], [57, 63, 0, 1], [57, 64, 0, 1], [57, 61, 0, 1], [57, 62, 0, 1], [58, 61, 1, 1], [59, 60, 0, 1]]
+cluster 2 has 114 points, and the cluster is : [[34, 58, 30, 1], [41, 60, 23, 2], [42, 62, 20, 1], [44, 63, 19, 2], [46, 65, 20, 2], [47, 63, 23, 2], [53, 63, 24, 2], [54, 65, 23, 2], [54, 63, 19, 1], [55, 66, 18, 1], [55, 68, 15, 2], [57, 62, 14, 2], [55, 69, 22, 1], [62, 65, 19, 2], [64, 65, 22, 1], [65, 66, 15, 2], [43, 58, 52, 2], [54, 67, 46, 1], [59, 62, 35, 2], [63, 61, 28, 1], [60, 61, 25, 1], [65, 62, 22, 2], [70, 66, 14, 1], [74, 65, 3, 2], [60, 59, 17, 2], [62, 59, 13, 2], [66, 61, 13, 2], [67, 64, 8, 2], [69, 67, 8, 2], [72, 67, 3, 1], [70, 68, 0, 1], [71, 68, 2, 1], [59, 67, 3, 1], [60, 67, 2, 1], [61, 68, 1, 2], [61, 68, 0, 1], [64, 66, 0, 1], [65, 67, 0, 1], [64, 68, 0, 1], [65, 67, 1, 1], [66, 68, 0, 1], [68, 68, 0, 1], [68, 67, 0, 1], [69, 66, 0, 1], [70, 63, 0, 1], [72, 63, 0, 2], [72, 64, 0, 1], [74, 63, 0, 1], [65, 64, 0, 1], [65, 64, 0, 1], [67, 63, 1, 2], [67, 65, 0, 1], [67, 66, 0, 1], [67, 66, 0, 1], [69, 65, 0, 1], [70, 67, 0, 1], [73, 68, 0, 1], [76, 67, 0, 1], [78, 65, 1, 2], [83, 58, 2, 2], [54, 68, 7, 2], [54, 69, 7, 1], [56, 65, 9, 2], [57, 64, 9, 1], [59, 64, 4, 1], [59, 64, 7, 1], [61, 65, 8, 1], [63, 61, 9, 1], [59, 64, 1, 1], [60, 64, 0, 1], [60, 65, 0, 2], [61, 65, 0, 2], [61, 64, 0, 1], [62, 66, 0, 1], [62, 66, 0, 1], [63, 66, 0, 1], [58, 59, 0, 1], [58, 58, 0, 1], [58, 60, 3, 1], [58, 61, 2, 1], [58, 58, 3, 1], [60, 61, 1, 1], [59, 63, 0, 1], [59, 64, 0, 1], [61, 59, 0, 1], [61, 59, 0, 1], [61, 59, 0, 1], [62, 58, 0, 2], [62, 58, 0, 1], [64, 58, 0, 1], [65, 58, 0, 2], [65, 58, 0, 1], [61, 62, 5, 2], [62, 62, 6, 1], [63, 60, 1, 2], [63, 61, 0, 1], [63, 62, 0, 1], [63, 63, 0, 1], [63, 63, 0, 1], [64, 61, 0, 1], [65, 61, 2, 2], [65, 59, 2, 1], [66, 58, 1, 1], [67, 61, 0, 1], [66, 58, 0, 2], [66, 58, 0, 1], [69, 60, 0, 1], [70, 58, 0, 2], [70, 58, 4, 2], [70, 59, 8, 1], [72, 58, 0, 1], [73, 62, 0, 1], [75, 62, 1, 1], [77, 65, 3, 1]]
+cluster 3 has 64 points, and the cluster is : [[38, 69, 21, 2], [44, 67, 16, 1], [43, 63, 14, 1], [45, 59, 14, 1], [41, 59, 8, 1], [44, 58, 9, 2], [48, 58, 11, 2], [48, 58, 11, 2], [51, 59, 13, 2], [54, 60, 11, 2], [53, 60, 9, 2], [54, 59, 7, 1], [54, 60, 3, 1], [54, 58, 1, 1], [55, 58, 1, 1], [55, 58, 1, 1], [46, 58, 2, 2], [46, 58, 3, 1], [47, 58, 3, 1], [50, 59, 2, 1], [50, 59, 0, 1], [50, 58, 1, 1], [51, 59, 1, 1], [53, 58, 1, 1], [48, 61, 8, 1], [50, 61, 6, 1], [52, 60, 4, 1], [52, 60, 5, 1], [51, 59, 3, 2], [52, 59, 2, 2], [53, 58, 4, 2], [53, 59, 3, 2], [46, 69, 3, 2], [47, 68, 4, 1], [48, 67, 7, 2], [50, 65, 4, 1], [52, 66, 4, 2], [54, 65, 5, 2], [55, 63, 6, 2], [57, 61, 5, 2], [48, 62, 2, 1], [49, 62, 1, 1], [49, 61, 1, 1], [49, 60, 1, 1], [49, 63, 3, 1], [50, 63, 1, 1], [50, 64, 0, 2], [50, 64, 0, 1], [46, 62, 0, 1], [46, 63, 0, 1], [47, 62, 0, 2], [47, 61, 0, 1], [48, 64, 0, 1], [49, 63, 0, 2], [49, 62, 0, 1], [49, 61, 0, 1], [50, 61, 0, 1], [50, 61, 0, 1], [52, 61, 0, 1], [52, 62, 0, 1], [51, 65, 0, 1], [52, 65, 0, 1], [52, 64, 0, 1], [53, 63, 0, 1]]
+____________________________________________________________________________________________________
+how many clusters :  2
+cluster 1 with 182 alives and 60 deads the entropy is 0.8079869552387522
+cluster 2 with 43 alives and 21 deads the entropy is 0.9129992135852473
+******************************
+cluster 1 has 242 points, and the cluster is : [[30, 64, 1, 1], [30, 65, 0, 1], [30, 62, 3, 1], [31, 59, 2, 1], [33, 60, 0, 1], [34, 60, 0, 1], [34, 59, 0, 2], [34, 60, 1, 1], [36, 60, 1, 1], [37, 60, 0, 1], [38, 60, 0, 1], [38, 60, 0, 1], [37, 59, 6, 1], [38, 59, 2, 1], [38, 60, 1, 1], [39, 59, 2, 1], [37, 58, 0, 1], [39, 58, 0, 1], [40, 58, 2, 1], [40, 58, 0, 1], [41, 58, 0, 1], [41, 59, 0, 1], [42, 59, 0, 2], [42, 58, 0, 1], [42, 60, 1, 1], [42, 59, 2, 1], [42, 61, 4, 1], [43, 59, 2, 2], [43, 60, 0, 1], [44, 61, 0, 1], [44, 61, 0, 1], [45, 60, 0, 1], [31, 65, 4, 1], [34, 67, 7, 1], [34, 66, 9, 2], [38, 66, 11, 1], [33, 58, 10, 1], [34, 61, 10, 1], [35, 64, 13, 1], [37, 60, 15, 1], [38, 67, 5, 1], [41, 69, 8, 1], [43, 66, 4, 1], [44, 64, 6, 2], [45, 65, 6, 2], [47, 63, 6, 1], [46, 62, 5, 2], [47, 60, 4, 1], [41, 65, 0, 1], [42, 65, 0, 1], [43, 65, 0, 1], [45, 66, 0, 2], [42, 69, 1, 2], [45, 68, 0, 1], [45, 67, 0, 1], [47, 67, 0, 1], [42, 63, 1, 1], [43, 63, 2, 1], [43, 64, 2, 1], [43, 64, 3, 1], [43, 64, 0, 2], [43, 64, 0, 2], [44, 63, 1, 1], [45, 64, 0, 1], [35, 63, 0, 1], [37, 63, 0, 1], [37, 63, 0, 1], [38, 64, 1, 1], [38, 62, 3, 1], [39, 63, 4, 1], [39, 63, 0, 1], [40, 65, 0, 1], [36, 69, 0, 1], [38, 66, 0, 1], [39, 66, 0, 2], [39, 67, 0, 1], [41, 64, 0, 2], [41, 64, 0, 1], [41, 67, 0, 2], [41, 65, 0, 1], [45, 67, 1, 2], [45, 67, 1, 1], [47, 65, 0, 2], [47, 66, 0, 1], [48, 66, 0, 1], [49, 66, 0, 1], [49, 67, 1, 1], [50, 66, 1, 1], [51, 66, 1, 1], [53, 65, 1, 2], [52, 68, 0, 1], [54, 66, 0, 1], [52, 69, 3, 2], [52, 69, 0, 1], [55, 69, 3, 1], [56, 66, 3, 2], [47, 66, 12, 1], [49, 64, 10, 2], [50, 63, 13, 2], [53, 65, 12, 2], [51, 64, 7, 1], [52, 63, 4, 1], [52, 62, 3, 2], [52, 62, 1, 1], [53, 60, 1, 1], [53, 60, 2, 1], [53, 61, 1, 1], [54, 62, 0, 1], [54, 62, 0, 1], [56, 60, 0, 1], [55, 58, 0, 1], [56, 60, 0, 1], [55, 66, 0, 1], [55, 67, 1, 1], [56, 66, 2, 1], [56, 66, 1, 1], [56, 67, 0, 1], [57, 67, 0, 1], [57, 69, 0, 1], [58, 67, 0, 1], [57, 64, 1, 2], [57, 64, 0, 1], [57, 63, 0, 1], [57, 64, 0, 1], [57, 61, 0, 1], [57, 62, 0, 1], [58, 61, 1, 1], [59, 60, 0, 1], [34, 58, 30, 1], [41, 60, 23, 2], [42, 62, 20, 1], [44, 63, 19, 2], [46, 65, 20, 2], [47, 63, 23, 2], [53, 63, 24, 2], [54, 65, 23, 2], [54, 63, 19, 1], [55, 66, 18, 1], [55, 68, 15, 2], [57, 62, 14, 2], [55, 69, 22, 1], [62, 65, 19, 2], [64, 65, 22, 1], [65, 66, 15, 2], [43, 58, 52, 2], [54, 67, 46, 1], [59, 62, 35, 2], [63, 61, 28, 1], [60, 61, 25, 1], [65, 62, 22, 2], [70, 66, 14, 1], [74, 65, 3, 2], [60, 59, 17, 2], [62, 59, 13, 2], [66, 61, 13, 2], [67, 64, 8, 2], [69, 67, 8, 2], [72, 67, 3, 1], [70, 68, 0, 1], [71, 68, 2, 1], [59, 67, 3, 1], [60, 67, 2, 1], [61, 68, 1, 2], [61, 68, 0, 1], [64, 66, 0, 1], [65, 67, 0, 1], [64, 68, 0, 1], [65, 67, 1, 1], [66, 68, 0, 1], [68, 68, 0, 1], [68, 67, 0, 1], [69, 66, 0, 1], [70, 63, 0, 1], [72, 63, 0, 2], [72, 64, 0, 1], [74, 63, 0, 1], [65, 64, 0, 1], [65, 64, 0, 1], [67, 63, 1, 2], [67, 65, 0, 1], [67, 66, 0, 1], [67, 66, 0, 1], [69, 65, 0, 1], [70, 67, 0, 1], [73, 68, 0, 1], [76, 67, 0, 1], [78, 65, 1, 2], [83, 58, 2, 2], [54, 68, 7, 2], [54, 69, 7, 1], [56, 65, 9, 2], [57, 64, 9, 1], [59, 64, 4, 1], [59, 64, 7, 1], [61, 65, 8, 1], [63, 61, 9, 1], [59, 64, 1, 1], [60, 64, 0, 1], [60, 65, 0, 2], [61, 65, 0, 2], [61, 64, 0, 1], [62, 66, 0, 1], [62, 66, 0, 1], [63, 66, 0, 1], [58, 59, 0, 1], [58, 58, 0, 1], [58, 60, 3, 1], [58, 61, 2, 1], [58, 58, 3, 1], [60, 61, 1, 1], [59, 63, 0, 1], [59, 64, 0, 1], [61, 59, 0, 1], [61, 59, 0, 1], [61, 59, 0, 1], [62, 58, 0, 2], [62, 58, 0, 1], [64, 58, 0, 1], [65, 58, 0, 2], [65, 58, 0, 1], [61, 62, 5, 2], [62, 62, 6, 1], [63, 60, 1, 2], [63, 61, 0, 1], [63, 62, 0, 1], [63, 63, 0, 1], [63, 63, 0, 1], [64, 61, 0, 1], [65, 61, 2, 2], [65, 59, 2, 1], [66, 58, 1, 1], [67, 61, 0, 1], [66, 58, 0, 2], [66, 58, 0, 1], [69, 60, 0, 1], [70, 58, 0, 2], [70, 58, 4, 2], [70, 59, 8, 1], [72, 58, 0, 1], [73, 62, 0, 1], [75, 62, 1, 1], [77, 65, 3, 1]]
+cluster 2 has 64 points, and the cluster is : [[38, 69, 21, 2], [44, 67, 16, 1], [43, 63, 14, 1], [45, 59, 14, 1], [41, 59, 8, 1], [44, 58, 9, 2], [48, 58, 11, 2], [48, 58, 11, 2], [51, 59, 13, 2], [54, 60, 11, 2], [53, 60, 9, 2], [54, 59, 7, 1], [54, 60, 3, 1], [54, 58, 1, 1], [55, 58, 1, 1], [55, 58, 1, 1], [46, 58, 2, 2], [46, 58, 3, 1], [47, 58, 3, 1], [50, 59, 2, 1], [50, 59, 0, 1], [50, 58, 1, 1], [51, 59, 1, 1], [53, 58, 1, 1], [48, 61, 8, 1], [50, 61, 6, 1], [52, 60, 4, 1], [52, 60, 5, 1], [51, 59, 3, 2], [52, 59, 2, 2], [53, 58, 4, 2], [53, 59, 3, 2], [46, 69, 3, 2], [47, 68, 4, 1], [48, 67, 7, 2], [50, 65, 4, 1], [52, 66, 4, 2], [54, 65, 5, 2], [55, 63, 6, 2], [57, 61, 5, 2], [48, 62, 2, 1], [49, 62, 1, 1], [49, 61, 1, 1], [49, 60, 1, 1], [49, 63, 3, 1], [50, 63, 1, 1], [50, 64, 0, 2], [50, 64, 0, 1], [46, 62, 0, 1], [46, 63, 0, 1], [47, 62, 0, 2], [47, 61, 0, 1], [48, 64, 0, 1], [49, 63, 0, 2], [49, 62, 0, 1], [49, 61, 0, 1], [50, 61, 0, 1], [50, 61, 0, 1], [52, 61, 0, 1], [52, 62, 0, 1], [51, 65, 0, 1], [52, 65, 0, 1], [52, 64, 0, 1], [53, 63, 0, 1]]
+____________________________________________________________________________________________________
+how many clusters :  1
+cluster 1 with 225 alives and 81 deads the entropy is 0.833764907210665
+******************************
+cluster 1 has 306 points, and the cluster is : [[30, 64, 1, 1], [30, 65, 0, 1], [30, 62, 3, 1], [31, 59, 2, 1], [33, 60, 0, 1], [34, 60, 0, 1], [34, 59, 0, 2], [34, 60, 1, 1], [36, 60, 1, 1], [37, 60, 0, 1], [38, 60, 0, 1], [38, 60, 0, 1], [37, 59, 6, 1], [38, 59, 2, 1], [38, 60, 1, 1], [39, 59, 2, 1], [37, 58, 0, 1], [39, 58, 0, 1], [40, 58, 2, 1], [40, 58, 0, 1], [41, 58, 0, 1], [41, 59, 0, 1], [42, 59, 0, 2], [42, 58, 0, 1], [42, 60, 1, 1], [42, 59, 2, 1], [42, 61, 4, 1], [43, 59, 2, 2], [43, 60, 0, 1], [44, 61, 0, 1], [44, 61, 0, 1], [45, 60, 0, 1], [31, 65, 4, 1], [34, 67, 7, 1], [34, 66, 9, 2], [38, 66, 11, 1], [33, 58, 10, 1], [34, 61, 10, 1], [35, 64, 13, 1], [37, 60, 15, 1], [38, 67, 5, 1], [41, 69, 8, 1], [43, 66, 4, 1], [44, 64, 6, 2], [45, 65, 6, 2], [47, 63, 6, 1], [46, 62, 5, 2], [47, 60, 4, 1], [41, 65, 0, 1], [42, 65, 0, 1], [43, 65, 0, 1], [45, 66, 0, 2], [42, 69, 1, 2], [45, 68, 0, 1], [45, 67, 0, 1], [47, 67, 0, 1], [42, 63, 1, 1], [43, 63, 2, 1], [43, 64, 2, 1], [43, 64, 3, 1], [43, 64, 0, 2], [43, 64, 0, 2], [44, 63, 1, 1], [45, 64, 0, 1], [35, 63, 0, 1], [37, 63, 0, 1], [37, 63, 0, 1], [38, 64, 1, 1], [38, 62, 3, 1], [39, 63, 4, 1], [39, 63, 0, 1], [40, 65, 0, 1], [36, 69, 0, 1], [38, 66, 0, 1], [39, 66, 0, 2], [39, 67, 0, 1], [41, 64, 0, 2], [41, 64, 0, 1], [41, 67, 0, 2], [41, 65, 0, 1], [45, 67, 1, 2], [45, 67, 1, 1], [47, 65, 0, 2], [47, 66, 0, 1], [48, 66, 0, 1], [49, 66, 0, 1], [49, 67, 1, 1], [50, 66, 1, 1], [51, 66, 1, 1], [53, 65, 1, 2], [52, 68, 0, 1], [54, 66, 0, 1], [52, 69, 3, 2], [52, 69, 0, 1], [55, 69, 3, 1], [56, 66, 3, 2], [47, 66, 12, 1], [49, 64, 10, 2], [50, 63, 13, 2], [53, 65, 12, 2], [51, 64, 7, 1], [52, 63, 4, 1], [52, 62, 3, 2], [52, 62, 1, 1], [53, 60, 1, 1], [53, 60, 2, 1], [53, 61, 1, 1], [54, 62, 0, 1], [54, 62, 0, 1], [56, 60, 0, 1], [55, 58, 0, 1], [56, 60, 0, 1], [55, 66, 0, 1], [55, 67, 1, 1], [56, 66, 2, 1], [56, 66, 1, 1], [56, 67, 0, 1], [57, 67, 0, 1], [57, 69, 0, 1], [58, 67, 0, 1], [57, 64, 1, 2], [57, 64, 0, 1], [57, 63, 0, 1], [57, 64, 0, 1], [57, 61, 0, 1], [57, 62, 0, 1], [58, 61, 1, 1], [59, 60, 0, 1], [34, 58, 30, 1], [41, 60, 23, 2], [42, 62, 20, 1], [44, 63, 19, 2], [46, 65, 20, 2], [47, 63, 23, 2], [53, 63, 24, 2], [54, 65, 23, 2], [54, 63, 19, 1], [55, 66, 18, 1], [55, 68, 15, 2], [57, 62, 14, 2], [55, 69, 22, 1], [62, 65, 19, 2], [64, 65, 22, 1], [65, 66, 15, 2], [43, 58, 52, 2], [54, 67, 46, 1], [59, 62, 35, 2], [63, 61, 28, 1], [60, 61, 25, 1], [65, 62, 22, 2], [70, 66, 14, 1], [74, 65, 3, 2], [60, 59, 17, 2], [62, 59, 13, 2], [66, 61, 13, 2], [67, 64, 8, 2], [69, 67, 8, 2], [72, 67, 3, 1], [70, 68, 0, 1], [71, 68, 2, 1], [59, 67, 3, 1], [60, 67, 2, 1], [61, 68, 1, 2], [61, 68, 0, 1], [64, 66, 0, 1], [65, 67, 0, 1], [64, 68, 0, 1], [65, 67, 1, 1], [66, 68, 0, 1], [68, 68, 0, 1], [68, 67, 0, 1], [69, 66, 0, 1], [70, 63, 0, 1], [72, 63, 0, 2], [72, 64, 0, 1], [74, 63, 0, 1], [65, 64, 0, 1], [65, 64, 0, 1], [67, 63, 1, 2], [67, 65, 0, 1], [67, 66, 0, 1], [67, 66, 0, 1], [69, 65, 0, 1], [70, 67, 0, 1], [73, 68, 0, 1], [76, 67, 0, 1], [78, 65, 1, 2], [83, 58, 2, 2], [54, 68, 7, 2], [54, 69, 7, 1], [56, 65, 9, 2], [57, 64, 9, 1], [59, 64, 4, 1], [59, 64, 7, 1], [61, 65, 8, 1], [63, 61, 9, 1], [59, 64, 1, 1], [60, 64, 0, 1], [60, 65, 0, 2], [61, 65, 0, 2], [61, 64, 0, 1], [62, 66, 0, 1], [62, 66, 0, 1], [63, 66, 0, 1], [58, 59, 0, 1], [58, 58, 0, 1], [58, 60, 3, 1], [58, 61, 2, 1], [58, 58, 3, 1], [60, 61, 1, 1], [59, 63, 0, 1], [59, 64, 0, 1], [61, 59, 0, 1], [61, 59, 0, 1], [61, 59, 0, 1], [62, 58, 0, 2], [62, 58, 0, 1], [64, 58, 0, 1], [65, 58, 0, 2], [65, 58, 0, 1], [61, 62, 5, 2], [62, 62, 6, 1], [63, 60, 1, 2], [63, 61, 0, 1], [63, 62, 0, 1], [63, 63, 0, 1], [63, 63, 0, 1], [64, 61, 0, 1], [65, 61, 2, 2], [65, 59, 2, 1], [66, 58, 1, 1], [67, 61, 0, 1], [66, 58, 0, 2], [66, 58, 0, 1], [69, 60, 0, 1], [70, 58, 0, 2], [70, 58, 4, 2], [70, 59, 8, 1], [72, 58, 0, 1], [73, 62, 0, 1], [75, 62, 1, 1], [77, 65, 3, 1], [38, 69, 21, 2], [44, 67, 16, 1], [43, 63, 14, 1], [45, 59, 14, 1], [41, 59, 8, 1], [44, 58, 9, 2], [48, 58, 11, 2], [48, 58, 11, 2], [51, 59, 13, 2], [54, 60, 11, 2], [53, 60, 9, 2], [54, 59, 7, 1], [54, 60, 3, 1], [54, 58, 1, 1], [55, 58, 1, 1], [55, 58, 1, 1], [46, 58, 2, 2], [46, 58, 3, 1], [47, 58, 3, 1], [50, 59, 2, 1], [50, 59, 0, 1], [50, 58, 1, 1], [51, 59, 1, 1], [53, 58, 1, 1], [48, 61, 8, 1], [50, 61, 6, 1], [52, 60, 4, 1], [52, 60, 5, 1], [51, 59, 3, 2], [52, 59, 2, 2], [53, 58, 4, 2], [53, 59, 3, 2], [46, 69, 3, 2], [47, 68, 4, 1], [48, 67, 7, 2], [50, 65, 4, 1], [52, 66, 4, 2], [54, 65, 5, 2], [55, 63, 6, 2], [57, 61, 5, 2], [48, 62, 2, 1], [49, 62, 1, 1], [49, 61, 1, 1], [49, 60, 1, 1], [49, 63, 3, 1], [50, 63, 1, 1], [50, 64, 0, 2], [50, 64, 0, 1], [46, 62, 0, 1], [46, 63, 0, 1], [47, 62, 0, 2], [47, 61, 0, 1], [48, 64, 0, 1], [49, 63, 0, 2], [49, 62, 0, 1], [49, 61, 0, 1], [50, 61, 0, 1], [50, 61, 0, 1], [52, 61, 0, 1], [52, 62, 0, 1], [51, 65, 0, 1], [52, 65, 0, 1], [52, 64, 0, 1], [53, 63, 0, 1]]
+____________________________________________________________________________________________________
